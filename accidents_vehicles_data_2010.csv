@@ -1,0 +1,988 @@
+"Id","ID.pojazdu","Typ","Marka","Usterki","Cechy.szczególne"
+90787144,1,"Rower",NA,NA,NA
+90787144,2,"Samochód osobowy",NA,NA,NA
+90801707,1,"Rower",NA,NA,NA
+90801707,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+90816359,1,"Rower",NA,NA,NA
+90825260,1,"Samochód osobowy",NA,NA,NA
+90825260,2,"Rower",NA,NA,NA
+90876917,1,"Rower",NA,NA,NA
+90876917,2,"Samochód osobowy",NA,NA,NA
+90924906,1,"Rower",NA,NA,NA
+90924906,2,"Samochód osobowy",NA,NA,NA
+90992853,1,"Rower",NA,NA,NA
+90992853,2,"Samochód osobowy",NA,NA,NA
+91055346,1,"Rower",NA,NA,NA
+91055346,2,"Samochód osobowy",NA,NA,NA
+91134171,1,"Samochód osobowy",NA,NA,NA
+91134171,2,"Rower",NA,NA,NA
+91150558,1,"Rower",NA,NA,NA
+91150804,1,"Rower",NA,NA,NA
+91209159,1,"Samochód osobowy",NA,NA,NA
+91209159,2,"Rower",NA,NA,NA
+91280659,1,"Rower",NA,NA,NA
+91280659,2,"Samochód osobowy",NA,NA,NA
+91323971,1,"Samochód osobowy",NA,NA,NA
+91323971,2,"Rower",NA,NA,NA
+91324886,1,"Rower",NA,NA,NA
+91324886,2,"Samochód osobowy",NA,NA,NA
+91340876,1,"Rower",NA,NA,NA
+91340876,2,"Samochód osobowy",NA,NA,NA
+91344458,1,"Samochód osobowy",NA,NA,NA
+91344458,2,"Rower",NA,NA,NA
+91346175,1,"Rower",NA,NA,NA
+91346175,2,"Samochód osobowy",NA,NA,NA
+91348940,1,"Rower",NA,NA,NA
+91348940,2,"Samochód osobowy",NA,NA,NA
+91349086,1,"Rower",NA,NA,NA
+91349086,2,"Samochód osobowy",NA,NA,NA
+91350216,1,"Rower",NA,NA,NA
+91350216,2,"Samochód osobowy",NA,NA,NA
+91350960,1,"Samochód osobowy",NA,NA,NA
+91350960,2,"Rower",NA,NA,NA
+91351337,1,"Samochód osobowy",NA,NA,NA
+91351337,2,"Rower",NA,NA,NA
+91356063,1,"Rower",NA,NA,NA
+91356063,2,"Samochód osobowy",NA,NA,NA
+91357197,1,"Rower",NA,NA,NA
+91357197,2,"Samochód osobowy",NA,NA,NA
+91357317,1,"Rower",NA,NA,NA
+91357317,2,"Samochód osobowy",NA,NA,NA
+91357330,1,"Rower",NA,NA,NA
+91357330,2,"Samochód osobowy",NA,NA,NA
+91359276,1,"Samochód osobowy",NA,NA,NA
+91359276,2,"Rower",NA,NA,NA
+91359928,1,"Rower",NA,NA,NA
+91359928,2,"Samochód osobowy",NA,NA,NA
+91360075,1,"Samochód osobowy",NA,NA,NA
+91360075,2,"Rower",NA,NA,NA
+91371242,1,"Rower",NA,NA,NA
+91371242,2,"Samochód osobowy",NA,NA,NA
+91371940,1,"Samochód osobowy",NA,NA,NA
+91371940,2,"Rower",NA,NA,NA
+91377127,1,"Motocykl inny",NA,NA,NA
+91377127,2,"Rower",NA,NA,NA
+91377754,1,"Samochód osobowy",NA,NA,NA
+91377754,2,"Rower",NA,NA,NA
+91377808,1,"Rower",NA,NA,NA
+91377808,2,"Samochód osobowy",NA,NA,NA
+91378284,1,"Rower",NA,NA,NA
+91378284,2,"Samochód osobowy",NA,NA,NA
+91395152,1,"Rower",NA,NA,NA
+91395152,2,"Samochód osobowy",NA,NA,NA
+91395163,1,"Rower",NA,NA,NA
+91396199,1,"Pojazd nieustalony",NA,NA,NA
+91396199,2,"Rower",NA,NA,NA
+91396498,1,"Samochód osobowy",NA,NA,NA
+91396498,2,"Rower",NA,NA,NA
+91399502,1,"Rower",NA,NA,NA
+91399502,2,"Samochód osobowy",NA,NA,NA
+91401214,1,"Samochód osobowy",NA,NA,NA
+91401214,2,"Rower",NA,NA,NA
+91403951,1,"Rower",NA,NA,NA
+91403951,2,"Samochód osobowy",NA,NA,NA
+91416336,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91416336,2,"Rower",NA,NA,NA
+91418885,1,"Samochód osobowy",NA,NA,NA
+91418885,2,"Rower",NA,NA,NA
+91418985,1,"Samochód osobowy",NA,NA,NA
+91418985,2,"Rower",NA,NA,NA
+91419919,1,"Samochód osobowy",NA,NA,NA
+91419919,2,"Rower",NA,NA,NA
+91420328,1,"Rower",NA,NA,NA
+91420970,1,"Samochód osobowy",NA,NA,NA
+91420970,2,"Rower",NA,NA,NA
+91426896,1,"Rower",NA,NA,NA
+91426896,2,"Samochód osobowy",NA,NA,NA
+91435187,1,"Pojazd nieustalony",NA,NA,NA
+91435187,2,"Rower",NA,NA,NA
+91435541,1,"Samochód osobowy",NA,NA,NA
+91435541,2,"Rower",NA,NA,NA
+91435547,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91435547,2,"Rower",NA,NA,NA
+91436059,1,"Rower",NA,NA,NA
+91436059,2,"Samochód osobowy",NA,NA,NA
+91437218,1,"Rower",NA,NA,NA
+91437218,2,"Samochód osobowy",NA,NA,NA
+91443819,1,"Rower",NA,NA,NA
+91443819,2,"Samochód osobowy",NA,NA,NA
+91446342,1,"Samochód osobowy",NA,NA,NA
+91446342,2,"Rower",NA,NA,NA
+91452947,1,"Samochód osobowy",NA,NA,NA
+91452947,2,"Rower",NA,NA,NA
+91457893,1,"Samochód osobowy",NA,NA,NA
+91457893,2,"Rower",NA,NA,NA
+91459090,1,"Rower",NA,NA,NA
+91459090,2,"Samochód osobowy",NA,NA,NA
+91486292,1,"Rower",NA,NA,NA
+91486292,2,"Samochód osobowy",NA,NA,NA
+91497308,1,"Samochód osobowy",NA,NA,NA
+91497308,2,"Rower",NA,NA,NA
+91500893,1,"Rower",NA,NA,NA
+91509282,1,"Rower",NA,NA,NA
+91509282,2,"Pojazd nieustalony",NA,NA,NA
+91551907,1,"Samochód osobowy",NA,NA,NA
+91551907,2,"Rower",NA,NA,NA
+91553899,1,"Rower",NA,NA,NA
+91553899,2,"Samochód osobowy",NA,NA,NA
+91566237,1,"Rower",NA,NA,NA
+91566237,2,"Motorower",NA,NA,NA
+91574133,1,"Samochód osobowy",NA,NA,NA
+91574133,2,"Rower",NA,NA,NA
+91613470,1,"Rower",NA,NA,NA
+91613470,2,"Rower",NA,NA,NA
+91613492,1,"Rower",NA,NA,NA
+91613492,2,"Tramwaj, trolejbus",NA,NA,NA
+91613943,1,"Rower",NA,NA,NA
+91613943,2,"Samochód osobowy",NA,NA,NA
+91619942,1,"Samochód osobowy",NA,NA,NA
+91619942,2,"Rower",NA,NA,NA
+91620162,1,"Rower",NA,NA,NA
+91620308,1,"Rower",NA,NA,NA
+91640026,1,"Rower",NA,NA,NA
+91640026,2,"Samochód osobowy",NA,NA,NA
+91640304,1,"Rower",NA,NA,NA
+91640304,2,"Samochód osobowy",NA,NA,NA
+91641345,1,"Rower",NA,NA,NA
+91641345,2,"Samochód osobowy",NA,NA,NA
+91658861,1,"Rower",NA,NA,NA
+91658861,2,"Samochód osobowy",NA,NA,NA
+91666855,1,"Samochód osobowy",NA,NA,NA
+91666855,2,"Rower",NA,NA,NA
+91667156,1,"Rower",NA,NA,NA
+91667156,2,"Samochód osobowy",NA,NA,NA
+91681172,1,"Samochód osobowy",NA,NA,NA
+91681172,2,"Rower",NA,NA,NA
+91681865,1,"Samochód osobowy",NA,NA,NA
+91681865,2,"Rower",NA,NA,NA
+91685853,1,"Samochód osobowy",NA,NA,NA
+91685853,2,"Rower",NA,NA,NA
+91685859,1,"Samochód osobowy",NA,NA,NA
+91685859,2,"Rower",NA,NA,NA
+91688316,1,"Samochód osobowy",NA,NA,NA
+91688316,2,"Rower",NA,NA,NA
+91690017,1,"Rower",NA,NA,NA
+91690017,2,"Samochód osobowy",NA,NA,NA
+91696407,1,"Samochód osobowy",NA,NA,NA
+91696407,2,"Rower",NA,NA,NA
+91696481,1,"Rower",NA,NA,NA
+91696481,2,"Samochód osobowy",NA,NA,NA
+91697033,1,"Rower",NA,NA,NA
+91697033,2,"Pojazd nieustalony",NA,NA,NA
+91697039,1,"Rower",NA,NA,NA
+91697039,2,"Samochód osobowy",NA,NA,NA
+91702951,1,"Motorower",NA,NA,NA
+91702951,2,"Rower",NA,NA,NA
+91740409,1,"Rower",NA,NA,NA
+91740409,2,"Samochód osobowy",NA,NA,NA
+91741948,1,"Samochód osobowy",NA,NA,NA
+91741948,2,"Rower",NA,NA,NA
+91742081,1,"Samochód osobowy",NA,NA,NA
+91742081,2,"Rower",NA,NA,NA
+91744900,1,"Rower",NA,NA,NA
+91744900,2,"Samochód osobowy",NA,NA,NA
+91751028,1,"Rower",NA,NA,NA
+91751213,1,"Rower",NA,NA,NA
+91751213,2,"Samochód osobowy",NA,NA,NA
+91755164,1,"Samochód osobowy",NA,NA,NA
+91755164,2,"Rower",NA,NA,NA
+91761949,1,"Autobus komunikacji publicznej",NA,NA,NA
+91761949,2,"Rower",NA,NA,NA
+91764095,1,"Rower",NA,NA,NA
+91764095,2,"Samochód osobowy",NA,NA,NA
+91764350,1,"Samochód osobowy",NA,NA,NA
+91764350,2,"Rower",NA,NA,NA
+91781336,1,"Samochód osobowy",NA,NA,NA
+91781336,2,"Rower",NA,NA,NA
+91781916,1,"Samochód osobowy",NA,NA,NA
+91781916,2,"Rower",NA,NA,NA
+91782423,1,"Samochód osobowy",NA,NA,NA
+91782423,2,"Rower",NA,NA,NA
+91785034,1,"Rower",NA,NA,NA
+91785034,2,"Samochód osobowy",NA,NA,NA
+91785452,1,"Samochód osobowy",NA,NA,NA
+91785452,2,"Rower",NA,NA,NA
+91785687,1,"Samochód osobowy",NA,NA,NA
+91785687,2,"Rower",NA,NA,NA
+91787998,1,"Rower",NA,NA,NA
+91787998,2,"Samochód osobowy",NA,NA,NA
+91788026,1,"Rower",NA,NA,NA
+91788026,2,"Samochód osobowy",NA,NA,NA
+91790293,1,"Samochód osobowy",NA,NA,NA
+91790293,2,"Rower",NA,NA,NA
+91791847,1,"Samochód osobowy",NA,NA,NA
+91791847,2,"Rower",NA,NA,NA
+91791886,1,"Samochód osobowy",NA,NA,NA
+91791886,2,"Rower",NA,NA,NA
+91792468,1,"Samochód osobowy",NA,NA,NA
+91792468,2,"Rower",NA,NA,NA
+91792550,1,"Samochód osobowy",NA,NA,NA
+91792550,2,"Rower",NA,NA,NA
+91793966,1,"Samochód osobowy",NA,NA,NA
+91793966,2,"Rower",NA,NA,NA
+91796853,1,"Samochód osobowy",NA,NA,NA
+91796853,2,"Rower",NA,NA,NA
+91847924,1,"Samochód osobowy",NA,NA,NA
+91847924,2,"Rower",NA,NA,NA
+91848530,1,"Rower",NA,NA,NA
+91848530,2,"Samochód osobowy",NA,NA,NA
+91848553,1,"Rower",NA,NA,NA
+91848553,2,"Samochód osobowy",NA,NA,NA
+91850910,1,"Samochód osobowy",NA,NA,NA
+91850910,2,"Rower",NA,NA,NA
+91852116,1,"Rower",NA,NA,NA
+91852116,2,"Samochód osobowy",NA,NA,NA
+91856342,1,"Samochód osobowy",NA,NA,NA
+91856342,2,"Rower",NA,NA,NA
+91856388,1,"Rower",NA,NA,NA
+91856388,2,"Samochód osobowy",NA,NA,NA
+91856398,1,"Samochód osobowy",NA,NA,NA
+91856398,2,"Rower",NA,NA,NA
+91857323,1,"Samochód osobowy",NA,NA,NA
+91857323,2,"Rower",NA,NA,NA
+91857470,1,"Rower",NA,NA,NA
+91857470,2,"Samochód osobowy",NA,NA,NA
+91860999,1,"Samochód osobowy",NA,NA,NA
+91860999,2,"Samochód osobowy",NA,NA,NA
+91860999,3,"Rower",NA,NA,NA
+91861100,1,"Samochód osobowy",NA,NA,NA
+91861100,2,"Rower",NA,NA,NA
+91861139,1,"Rower",NA,NA,NA
+91861139,2,"Samochód osobowy",NA,NA,NA
+91861916,1,"Samochód osobowy",NA,NA,NA
+91861916,2,"Rower",NA,NA,NA
+91862211,1,"Rower",NA,NA,NA
+91864887,1,"Rower",NA,NA,NA
+91864887,2,"Samochód osobowy",NA,NA,NA
+91869003,1,"Rower",NA,NA,NA
+91873024,1,"Rower",NA,NA,NA
+91873024,2,"Autobus inny",NA,NA,NA
+91873506,1,"Rower",NA,NA,NA
+91873506,2,"Samochód osobowy",NA,NA,NA
+91873788,1,"Rower",NA,NA,NA
+91873788,2,"Samochód osobowy",NA,NA,NA
+91881922,1,"Rower",NA,NA,NA
+91881922,2,"Samochód osobowy",NA,NA,NA
+91882263,1,"Rower",NA,NA,NA
+91882263,2,"Rower",NA,NA,NA
+91882727,1,"Samochód osobowy",NA,NA,NA
+91882727,2,"Rower",NA,NA,NA
+91883545,1,"Motocykl inny",NA,NA,NA
+91883545,2,"Rower",NA,NA,NA
+91883970,1,"Rower",NA,NA,NA
+91883970,2,"Samochód osobowy",NA,NA,NA
+91884032,1,"Samochód osobowy",NA,NA,NA
+91884032,2,"Rower",NA,NA,NA
+91885224,1,"Rower",NA,NA,NA
+91885224,2,"Samochód osobowy",NA,NA,NA
+91885568,1,"Rower",NA,NA,NA
+91885568,2,"Samochód osobowy",NA,NA,NA
+91885706,1,"Rower",NA,NA,NA
+91885706,2,"Samochód osobowy",NA,NA,NA
+91885873,1,"Rower",NA,NA,NA
+91885873,2,"Samochód osobowy",NA,NA,NA
+91885911,1,"Rower",NA,NA,NA
+91885911,2,"Samochód osobowy",NA,NA,NA
+91885945,1,"Rower",NA,NA,NA
+91885945,2,"Samochód osobowy",NA,NA,NA
+91887039,1,"Samochód osobowy",NA,NA,NA
+91887039,2,"Rower",NA,NA,NA
+91887072,1,"Rower",NA,NA,NA
+91887072,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91887256,1,"Rower",NA,NA,NA
+91887256,2,"Samochód osobowy",NA,NA,NA
+91887415,1,"Rower",NA,NA,NA
+91887415,2,"Samochód osobowy",NA,NA,NA
+91889873,1,"Samochód osobowy",NA,NA,NA
+91889873,2,"Rower",NA,NA,NA
+91897871,1,"Rower",NA,NA,NA
+91897871,2,"Samochód osobowy",NA,NA,NA
+91905871,1,"Rower",NA,NA,NA
+91905871,2,"Samochód osobowy",NA,NA,NA
+91906282,1,"Rower",NA,NA,NA
+91906282,2,"Samochód osobowy",NA,NA,NA
+91906413,1,"Samochód osobowy",NA,NA,NA
+91906413,2,"Rower",NA,NA,NA
+91906887,1,"Rower",NA,NA,NA
+91906887,2,"Samochód osobowy",NA,NA,NA
+91907312,1,"Samochód osobowy",NA,NA,NA
+91907312,2,"Rower",NA,NA,NA
+91907393,1,"Rower",NA,NA,NA
+91907393,2,"Samochód osobowy",NA,NA,NA
+91907438,1,"Rower",NA,NA,NA
+91909884,1,"Samochód osobowy",NA,NA,NA
+91909884,2,"Rower",NA,NA,NA
+91914040,1,"Samochód osobowy",NA,NA,NA
+91914040,2,"Rower",NA,NA,NA
+91914108,1,"Samochód osobowy",NA,NA,NA
+91914108,2,"Rower",NA,NA,NA
+91914141,1,"Rower",NA,NA,NA
+91914141,2,"Samochód osobowy",NA,NA,NA
+91916204,1,"Rower",NA,NA,NA
+91916204,2,"Pojazd nieustalony",NA,NA,NA
+91916243,1,"Rower",NA,NA,NA
+91916243,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91916274,1,"Rower",NA,NA,NA
+91916670,1,"Samochód osobowy",NA,NA,NA
+91916670,2,"Rower",NA,NA,NA
+91916831,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91916831,2,"Rower",NA,NA,NA
+91917013,1,"Rower",NA,NA,NA
+91917013,2,"Samochód osobowy",NA,NA,NA
+91917580,1,"Samochód osobowy",NA,NA,NA
+91917580,2,"Rower",NA,NA,NA
+91917973,1,"Rower",NA,NA,NA
+91918127,1,"Rower",NA,NA,NA
+91918127,2,"Samochód osobowy",NA,NA,NA
+91918137,1,"Rower",NA,NA,NA
+91918137,2,"Samochód osobowy",NA,NA,NA
+91918154,1,"Samochód osobowy",NA,NA,NA
+91918154,2,"Rower",NA,NA,NA
+91918328,1,"Rower",NA,NA,NA
+91918328,2,"Samochód osobowy",NA,NA,NA
+91918690,1,"Rower",NA,NA,NA
+91918690,2,"Samochód osobowy",NA,NA,NA
+91918753,1,"Rower",NA,NA,NA
+91918753,2,"Samochód osobowy",NA,NA,NA
+91918829,1,"Samochód osobowy",NA,NA,NA
+91918829,2,"Rower",NA,NA,NA
+91919337,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91919337,2,"Rower",NA,NA,NA
+91920163,1,"Rower",NA,NA,NA
+91920163,2,"Samochód osobowy",NA,NA,NA
+91920391,1,"Samochód osobowy",NA,NA,NA
+91920391,2,"Rower",NA,NA,NA
+91921008,1,"Samochód osobowy",NA,NA,NA
+91921008,2,"Rower",NA,NA,NA
+91921399,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91921399,2,"Rower",NA,NA,NA
+91922081,1,"Rower",NA,NA,NA
+91922088,1,"Rower",NA,NA,NA
+91922088,2,"Samochód osobowy",NA,NA,NA
+91926858,1,"Rower",NA,NA,NA
+91938005,1,"Rower",NA,NA,NA
+91938005,2,"Samochód osobowy",NA,NA,NA
+91939867,1,"Samochód osobowy",NA,NA,NA
+91939867,2,"Rower",NA,NA,NA
+91940007,1,"Rower",NA,NA,NA
+91940007,2,"Samochód osobowy",NA,NA,NA
+91940068,1,"Rower",NA,NA,NA
+91940068,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+91946989,1,"Rower",NA,NA,NA
+91946989,2,"Samochód osobowy",NA,NA,NA
+91976905,1,"Samochód osobowy",NA,NA,NA
+91976905,2,"Rower",NA,NA,NA
+91976925,1,"Rower",NA,NA,NA
+91976932,1,"Rower",NA,NA,NA
+91977986,1,"Rower",NA,NA,NA
+91977986,2,"Samochód osobowy",NA,NA,NA
+91978875,1,"Rower",NA,NA,NA
+91978875,2,"Samochód osobowy",NA,NA,NA
+91979960,1,"Rower",NA,NA,NA
+91979960,2,"Samochód osobowy",NA,NA,NA
+91985914,1,"Rower",NA,NA,NA
+92025913,1,"Rower",NA,NA,NA
+92025913,2,"Samochód osobowy",NA,NA,NA
+92068944,1,"Rower",NA,NA,NA
+92068944,2,"Samochód osobowy",NA,NA,NA
+92070199,1,"Rower",NA,NA,NA
+92071015,1,"Samochód osobowy",NA,NA,NA
+92071015,2,"Rower",NA,NA,NA
+92123340,1,"Rower",NA,NA,NA
+92123340,2,"Samochód osobowy",NA,NA,NA
+92124924,1,"Samochód osobowy",NA,NA,NA
+92124924,2,"Rower",NA,NA,NA
+92125012,1,"Samochód osobowy",NA,NA,NA
+92125012,2,"Rower",NA,NA,NA
+92135220,1,"Samochód osobowy",NA,NA,NA
+92135220,2,"Rower",NA,NA,NA
+92135806,1,"Rower",NA,NA,NA
+92135806,2,"Samochód osobowy",NA,NA,NA
+92136054,1,"Rower",NA,NA,NA
+92136054,2,"Samochód osobowy",NA,NA,NA
+92143494,1,"Rower",NA,NA,NA
+92143494,2,"Rower",NA,NA,NA
+92143582,1,"Rower",NA,NA,NA
+92143582,2,"Rower",NA,NA,NA
+92144057,1,"Samochód osobowy",NA,NA,NA
+92144057,2,"Rower",NA,NA,NA
+92144074,1,"Samochód osobowy",NA,NA,NA
+92144074,2,"Rower",NA,NA,NA
+92144260,1,"Motocykl inny",NA,NA,NA
+92144260,2,"Rower",NA,NA,NA
+92144820,1,"Rower",NA,NA,NA
+92144820,2,"Samochód osobowy",NA,NA,NA
+92145067,1,"Rower",NA,NA,NA
+92145067,2,"Samochód osobowy",NA,NA,NA
+92145987,1,"Samochód osobowy",NA,NA,NA
+92145987,2,"Rower",NA,NA,NA
+92148802,1,"Rower",NA,NA,NA
+92148802,2,"Samochód osobowy",NA,NA,NA
+92148936,1,"Samochód osobowy",NA,NA,NA
+92148936,2,"Rower",NA,NA,NA
+92148986,1,"Rower",NA,NA,NA
+92148986,2,"Rower",NA,NA,NA
+92149379,1,"Samochód osobowy",NA,NA,NA
+92149379,2,"Rower",NA,NA,NA
+92152121,1,"Samochód osobowy",NA,NA,NA
+92152121,2,"Rower",NA,NA,NA
+92152562,1,"Samochód osobowy",NA,NA,NA
+92152562,2,"Rower",NA,NA,NA
+92152796,1,"Samochód osobowy",NA,NA,NA
+92152796,2,"Rower",NA,NA,NA
+92155224,1,"Rower",NA,NA,NA
+92155224,2,"Samochód osobowy",NA,NA,NA
+92155890,1,"Rower",NA,NA,NA
+92155890,2,"Samochód osobowy",NA,NA,NA
+92155890,3,"Samochód osobowy",NA,NA,NA
+92155894,1,"Rower",NA,NA,NA
+92155894,2,"Samochód osobowy",NA,NA,NA
+92156234,1,"Samochód osobowy",NA,NA,NA
+92156234,2,"Rower",NA,NA,NA
+92156264,1,"Rower",NA,NA,NA
+92156264,2,"Samochód osobowy",NA,NA,NA
+92156592,1,"Rower",NA,NA,NA
+92156592,2,"Pojazd nieustalony",NA,NA,NA
+92157383,1,"Rower",NA,NA,NA
+92157383,2,"Samochód osobowy",NA,NA,NA
+92157384,1,"Samochód osobowy",NA,NA,NA
+92157384,2,"Rower",NA,NA,NA
+92157433,1,"Autobus komunikacji publicznej",NA,NA,NA
+92157433,2,"Rower",NA,NA,NA
+92157574,1,"Samochód osobowy",NA,NA,NA
+92157574,2,"Rower",NA,NA,NA
+92157686,1,"Rower",NA,NA,NA
+92157686,2,"Rower",NA,NA,NA
+92160066,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92160066,2,"Rower",NA,NA,NA
+92161037,1,"Rower",NA,NA,NA
+92161037,2,"Samochód osobowy",NA,NA,NA
+92163542,1,"Rower",NA,NA,NA
+92163542,2,"Samochód osobowy",NA,NA,NA
+92163578,1,"Rower",NA,NA,NA
+92163578,2,"Samochód osobowy",NA,NA,NA
+92164076,1,"Samochód osobowy",NA,NA,NA
+92164076,2,"Rower",NA,NA,NA
+92164133,1,"Rower",NA,NA,NA
+92164133,2,"Samochód osobowy",NA,NA,NA
+92165863,1,"Samochód osobowy",NA,NA,NA
+92165863,2,"Rower",NA,NA,NA
+92168003,1,"Samochód osobowy",NA,NA,NA
+92168003,2,"Rower",NA,NA,NA
+92168296,1,"Samochód osobowy",NA,NA,NA
+92168296,2,"Rower",NA,NA,NA
+92169484,1,"Rower",NA,NA,NA
+92169484,2,"Samochód osobowy",NA,NA,NA
+92169507,1,"Rower",NA,NA,NA
+92169507,2,"Samochód osobowy",NA,NA,NA
+92169514,1,"Rower",NA,NA,NA
+92169514,2,"Motorower",NA,NA,NA
+92171483,1,"Rower",NA,NA,NA
+92171483,2,"Pojazd nieustalony",NA,NA,NA
+92171506,1,"Rower",NA,NA,NA
+92171506,2,"Samochód osobowy",NA,NA,NA
+92171659,1,"Rower",NA,NA,NA
+92171659,2,"Pojazd nieustalony",NA,NA,NA
+92171698,1,"Rower",NA,NA,NA
+92171698,2,"Samochód osobowy",NA,NA,NA
+92171854,1,"Samochód osobowy",NA,NA,NA
+92171854,2,"Rower",NA,NA,NA
+92172185,1,"Rower",NA,NA,NA
+92172185,2,"Samochód osobowy",NA,NA,NA
+92172666,1,"Rower",NA,NA,NA
+92172666,2,"Samochód osobowy",NA,NA,NA
+92174924,1,"Rower",NA,NA,NA
+92174924,2,"Samochód osobowy",NA,NA,NA
+92177706,1,"Samochód osobowy",NA,NA,NA
+92177706,2,"Rower",NA,NA,NA
+92178255,1,"Rower",NA,NA,NA
+92178255,2,"Samochód osobowy",NA,NA,NA
+92178552,1,"Samochód osobowy",NA,NA,NA
+92178552,2,"Rower",NA,NA,NA
+92178650,1,"Rower",NA,NA,NA
+92178650,2,"Samochód osobowy",NA,NA,NA
+92178650,3,"Samochód osobowy",NA,NA,NA
+92178894,1,"Rower",NA,NA,NA
+92178894,2,"Samochód osobowy",NA,NA,NA
+92179848,1,"Samochód osobowy",NA,NA,NA
+92179848,2,"Rower",NA,NA,NA
+92180398,1,"Rower",NA,NA,NA
+92180398,2,"Samochód osobowy",NA,NA,NA
+92180399,1,"Rower",NA,NA,NA
+92180882,1,"Rower",NA,NA,NA
+92180882,2,"Samochód osobowy",NA,NA,NA
+92180911,1,"Rower",NA,NA,NA
+92180911,2,"Samochód osobowy",NA,NA,NA
+92181086,1,"Rower",NA,NA,NA
+92181086,2,"Samochód osobowy",NA,NA,NA
+92181421,1,"Rower",NA,NA,NA
+92181421,2,"Samochód osobowy",NA,NA,NA
+92183102,1,"Samochód osobowy",NA,NA,NA
+92183102,2,"Rower",NA,NA,NA
+92183811,1,"Samochód osobowy",NA,NA,NA
+92183811,2,"Rower",NA,NA,NA
+92183902,1,"Rower",NA,NA,NA
+92183902,2,"Samochód osobowy",NA,NA,NA
+92185526,1,"Samochód osobowy",NA,NA,NA
+92185526,2,"Rower",NA,NA,NA
+92186364,1,"Rower",NA,NA,NA
+92186364,2,"Autobus komunikacji publicznej",NA,NA,NA
+92192552,1,"Samochód osobowy",NA,NA,NA
+92192552,2,"Rower",NA,NA,NA
+92192627,1,"Samochód osobowy",NA,NA,NA
+92192627,2,"Rower",NA,NA,NA
+92193608,1,"Rower",NA,NA,NA
+92193608,2,"Samochód osobowy",NA,NA,NA
+92193608,3,"Samochód osobowy",NA,NA,NA
+92194145,1,"Samochód osobowy",NA,NA,NA
+92194145,2,"Rower",NA,NA,NA
+92194155,1,"Rower",NA,NA,NA
+92194155,2,"Samochód osobowy",NA,NA,NA
+92194333,1,"Rower",NA,NA,NA
+92194333,2,"Samochód osobowy",NA,NA,NA
+92194455,1,"Samochód osobowy",NA,NA,NA
+92194455,2,"Rower",NA,NA,NA
+92195864,1,"Rower",NA,NA,NA
+92195864,2,"Samochód osobowy",NA,NA,NA
+92195881,1,"Rower",NA,NA,NA
+92196156,1,"Rower",NA,NA,NA
+92196156,2,"Samochód osobowy",NA,NA,NA
+92196488,1,"Rower",NA,NA,NA
+92196488,2,"Samochód osobowy",NA,NA,NA
+92197011,1,"Rower",NA,NA,NA
+92197011,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92199263,1,"Rower",NA,NA,NA
+92199263,2,"Samochód osobowy",NA,NA,NA
+92200299,1,"Samochód osobowy",NA,NA,NA
+92200299,2,"Rower",NA,NA,NA
+92200306,1,"Rower",NA,NA,NA
+92200306,2,"Samochód osobowy",NA,NA,NA
+92204006,1,"Rower",NA,NA,NA
+92204006,2,"Rower",NA,NA,NA
+92204020,1,"Samochód osobowy",NA,NA,NA
+92204020,2,"Rower",NA,NA,NA
+92204734,1,"Samochód osobowy",NA,NA,NA
+92204734,2,"Rower",NA,NA,NA
+92205155,1,"Rower",NA,NA,NA
+92205155,2,"Samochód osobowy",NA,NA,NA
+92205326,1,"Rower",NA,NA,NA
+92205326,2,"Samochód osobowy",NA,NA,NA
+92205537,1,"Rower",NA,NA,NA
+92205537,2,"Rower",NA,NA,NA
+92205537,3,"Samochód osobowy",NA,NA,NA
+92205974,1,"Rower",NA,NA,NA
+92205974,2,"Samochód osobowy",NA,NA,NA
+92206001,1,"Rower",NA,NA,NA
+92206001,2,"Samochód osobowy",NA,NA,NA
+92206073,1,"Samochód osobowy",NA,NA,NA
+92206073,2,"Rower",NA,NA,NA
+92207317,1,"Samochód osobowy",NA,NA,NA
+92207317,2,"Rower",NA,NA,NA
+92207318,1,"Rower",NA,NA,NA
+92207318,2,"Motocykl inny",NA,NA,NA
+92207327,1,"Rower",NA,NA,NA
+92208907,1,"Rower",NA,NA,NA
+92208907,2,"Samochód osobowy",NA,NA,NA
+92209562,1,"Rower",NA,NA,NA
+92209562,2,"Samochód osobowy",NA,NA,NA
+92209825,1,"Samochód osobowy",NA,NA,NA
+92209825,2,"Rower",NA,NA,NA
+92210010,1,"Samochód osobowy",NA,NA,NA
+92210010,2,"Samochód osobowy",NA,NA,NA
+92210010,3,"Rower",NA,NA,NA
+92210123,1,"Samochód osobowy",NA,NA,NA
+92210123,2,"Rower",NA,NA,NA
+92211002,1,"Rower",NA,NA,NA
+92211002,2,"Rower",NA,NA,NA
+92213707,1,"Rower",NA,NA,NA
+92213707,2,"Samochód osobowy",NA,NA,NA
+92213707,3,"Samochód osobowy",NA,NA,NA
+92215265,1,"Rower",NA,NA,NA
+92215265,2,"Samochód osobowy",NA,NA,NA
+92215367,1,"Rower",NA,NA,NA
+92215367,2,"Samochód osobowy",NA,NA,NA
+92215376,1,"Rower",NA,NA,NA
+92215376,2,"Samochód osobowy",NA,NA,NA
+92216287,1,"Samochód osobowy",NA,NA,NA
+92216287,2,"Rower",NA,NA,NA
+92216386,1,"Rower",NA,NA,NA
+92216386,2,"Samochód osobowy",NA,NA,NA
+92216616,1,"Samochód osobowy",NA,NA,NA
+92216616,2,"Rower",NA,NA,NA
+92217344,1,"Rower",NA,NA,NA
+92217344,2,"Samochód osobowy",NA,NA,NA
+92217385,1,"Rower",NA,NA,NA
+92217638,1,"Rower",NA,NA,NA
+92217638,2,"Samochód osobowy",NA,NA,NA
+92218314,1,"Rower",NA,NA,NA
+92218314,2,"Samochód osobowy",NA,NA,NA
+92218411,1,"Rower",NA,NA,NA
+92218411,2,"Samochód osobowy",NA,NA,NA
+92218812,1,"Samochód osobowy",NA,NA,NA
+92218812,2,"Rower",NA,NA,NA
+92219533,1,"Samochód osobowy",NA,NA,NA
+92219533,2,"Rower",NA,NA,NA
+92220410,1,"Rower",NA,NA,NA
+92220410,2,"Samochód osobowy",NA,NA,NA
+92220721,1,"Motocykl inny",NA,NA,NA
+92220721,2,"Rower",NA,NA,NA
+92221006,1,"Rower",NA,NA,NA
+92221006,2,"Samochód osobowy",NA,NA,NA
+92221197,1,"Rower",NA,NA,NA
+92221197,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92221329,1,"Rower",NA,NA,NA
+92221329,2,"Samochód osobowy",NA,NA,NA
+92221336,1,"Motorower",NA,NA,NA
+92221336,2,"Rower",NA,NA,NA
+92222029,1,"Samochód osobowy",NA,NA,NA
+92222029,2,"Rower",NA,NA,NA
+92222146,1,"Rower",NA,NA,NA
+92222146,2,"Samochód osobowy",NA,NA,NA
+92223081,1,"Rower",NA,NA,NA
+92223081,2,"Samochód osobowy",NA,NA,NA
+92223888,1,"Samochód osobowy",NA,NA,NA
+92223888,2,"Rower",NA,NA,NA
+92227264,1,"Rower",NA,NA,NA
+92227264,2,"Rower",NA,NA,NA
+92227450,1,"Rower",NA,NA,NA
+92227450,2,"Samochód osobowy",NA,NA,NA
+92227709,1,"Rower",NA,NA,NA
+92227709,2,"Samochód osobowy",NA,NA,NA
+92227772,1,"Samochód osobowy",NA,NA,NA
+92227772,2,"Rower",NA,NA,NA
+92228103,1,"Rower",NA,NA,NA
+92228103,2,"Samochód osobowy",NA,NA,NA
+92228278,1,"Samochód osobowy",NA,NA,NA
+92228278,2,"Rower",NA,NA,NA
+92229106,1,"Rower",NA,NA,NA
+92229139,1,"Rower",NA,NA,NA
+92229139,2,"Samochód osobowy",NA,NA,NA
+92231013,1,"Rower",NA,NA,NA
+92231013,2,"Samochód osobowy",NA,NA,NA
+92231025,1,"Samochód osobowy",NA,NA,NA
+92231025,2,"Rower",NA,NA,NA
+92231444,1,"Samochód osobowy",NA,NA,NA
+92231444,2,"Rower",NA,NA,NA
+92232390,1,"Rower",NA,NA,NA
+92232390,2,"Samochód osobowy",NA,NA,NA
+92232478,1,"Samochód osobowy",NA,NA,NA
+92232478,2,"Rower",NA,NA,NA
+92235109,1,"Rower",NA,NA,NA
+92235109,2,"Samochód osobowy",NA,NA,NA
+92235926,1,"Rower",NA,NA,NA
+92235926,2,"Samochód osobowy",NA,NA,NA
+92236819,1,"Samochód osobowy",NA,NA,NA
+92236819,2,"Rower",NA,NA,NA
+92236829,1,"Rower",NA,NA,NA
+92236829,2,"Samochód osobowy",NA,NA,NA
+92236887,1,"Rower",NA,NA,NA
+92236887,2,"Samochód osobowy",NA,NA,NA
+92237179,1,"Samochód osobowy",NA,NA,NA
+92237179,2,"Rower",NA,NA,NA
+92240430,1,"Rower",NA,NA,NA
+92240430,2,"Samochód osobowy",NA,NA,NA
+92241061,1,"Rower",NA,NA,NA
+92241061,2,"Samochód osobowy",NA,NA,NA
+92241318,1,"Rower",NA,NA,NA
+92241318,2,"Samochód osobowy",NA,NA,NA
+92243927,1,"Autobus inny",NA,NA,NA
+92243927,2,"Rower",NA,NA,NA
+92244072,1,"Rower",NA,NA,NA
+92244991,1,"Samochód osobowy",NA,NA,NA
+92244991,2,"Rower",NA,NA,NA
+92272159,1,"Rower",NA,NA,NA
+92272159,2,"Samochód osobowy",NA,NA,NA
+92272349,1,"Samochód osobowy",NA,NA,NA
+92272349,2,"Rower",NA,NA,NA
+92275943,1,"Rower",NA,NA,NA
+92275943,2,"Samochód osobowy",NA,NA,NA
+92276223,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92276223,2,"Rower",NA,NA,NA
+92278007,1,"Samochód osobowy",NA,NA,NA
+92278007,2,"Rower",NA,NA,NA
+92280257,1,"Samochód osobowy",NA,NA,NA
+92280257,2,"Rower",NA,NA,NA
+92281552,1,"Rower",NA,NA,NA
+92281552,2,"Samochód osobowy",NA,NA,NA
+92281804,1,"Rower",NA,NA,NA
+92281804,2,"Samochód osobowy",NA,NA,NA
+92287410,1,"Samochód osobowy",NA,NA,NA
+92287410,2,"Rower",NA,NA,NA
+92288017,1,"Rower",NA,NA,NA
+92294944,1,"Samochód osobowy",NA,NA,NA
+92294944,2,"Rower",NA,NA,NA
+92303187,1,"Samochód osobowy",NA,NA,NA
+92303187,2,"Rower",NA,NA,NA
+92303308,1,"Rower",NA,NA,NA
+92303308,2,"Samochód osobowy",NA,NA,NA
+92303408,1,"Samochód osobowy",NA,NA,NA
+92303408,2,"Rower",NA,NA,NA
+92303410,1,"Rower",NA,NA,NA
+92303410,2,"Samochód osobowy",NA,NA,NA
+92303843,1,"Samochód osobowy",NA,NA,NA
+92303843,2,"Rower",NA,NA,NA
+92315475,1,"Rower",NA,NA,NA
+92320319,1,"Samochód osobowy",NA,NA,NA
+92320319,2,"Rower",NA,NA,NA
+92320334,1,"Samochód osobowy",NA,NA,NA
+92320334,2,"Rower",NA,NA,NA
+92320735,1,"Rower",NA,NA,NA
+92320735,2,"Samochód osobowy",NA,NA,NA
+92320790,1,"Samochód osobowy",NA,NA,NA
+92320790,2,"Rower",NA,NA,NA
+92321891,1,"Rower",NA,NA,NA
+92322475,1,"Samochód osobowy",NA,NA,NA
+92322475,2,"Rower",NA,NA,NA
+92322497,1,"Samochód osobowy",NA,NA,NA
+92322497,2,"Rower",NA,NA,NA
+92322525,1,"Rower",NA,NA,NA
+92322525,2,"Samochód osobowy",NA,NA,NA
+92322581,1,"Rower",NA,NA,NA
+92322581,2,"Rower",NA,NA,NA
+92324024,1,"Samochód osobowy",NA,NA,NA
+92324024,2,"Rower",NA,NA,NA
+92329882,1,"Rower",NA,NA,NA
+92329882,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92329882,3,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92330012,1,"Samochód osobowy",NA,NA,NA
+92330012,2,"Rower",NA,NA,NA
+92330895,1,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92330895,2,"Rower",NA,NA,NA
+92331564,1,"Rower",NA,NA,NA
+92331564,2,"Samochód osobowy",NA,NA,NA
+92332082,1,"Samochód osobowy",NA,NA,NA
+92332082,2,"Rower",NA,NA,NA
+92337524,1,"Samochód osobowy",NA,NA,NA
+92337524,2,"Rower",NA,NA,NA
+92341215,1,"Rower",NA,NA,NA
+92341251,1,"Rower",NA,NA,NA
+92341251,2,"Samochód osobowy",NA,NA,NA
+92342354,1,"Rower",NA,NA,NA
+92342354,2,"Samochód osobowy",NA,NA,NA
+92342719,1,"Rower",NA,NA,NA
+92342719,2,"Samochód osobowy",NA,NA,NA
+92348059,1,"Samochód osobowy",NA,NA,NA
+92348059,2,"Rower",NA,NA,NA
+92349197,1,"Samochód osobowy",NA,NA,NA
+92349197,2,"Rower",NA,NA,NA
+92349753,1,"Rower",NA,NA,NA
+92349753,2,"Samochód osobowy",NA,NA,NA
+92349808,1,"Samochód osobowy",NA,NA,NA
+92349808,2,"Rower",NA,NA,NA
+92349885,1,"Samochód osobowy",NA,NA,NA
+92349885,2,"Rower",NA,NA,NA
+92350161,1,"Rower",NA,NA,NA
+92350161,2,"Samochód osobowy",NA,NA,NA
+92354954,1,"Rower",NA,NA,NA
+92354954,2,"Autobus komunikacji publicznej",NA,NA,NA
+92359877,1,"Rower",NA,NA,NA
+92359877,2,"Samochód osobowy",NA,NA,NA
+92360856,1,"Rower",NA,NA,NA
+92360856,2,"Samochód osobowy",NA,NA,NA
+92374956,1,"Samochód osobowy",NA,NA,NA
+92374956,2,"Rower",NA,NA,NA
+92376421,1,"Rower",NA,NA,NA
+92376421,2,"Samochód osobowy",NA,NA,NA
+92379492,1,"Samochód osobowy",NA,NA,NA
+92379492,2,"Rower",NA,NA,NA
+92379996,1,"Rower",NA,NA,NA
+92381114,1,"Rower",NA,NA,NA
+92389648,1,"Rower",NA,NA,NA
+92389648,2,"Samochód osobowy",NA,NA,NA
+92389809,1,"Samochód osobowy",NA,NA,NA
+92389809,2,"Rower",NA,NA,NA
+92393549,1,"Rower",NA,NA,NA
+92393549,2,"Samochód osobowy",NA,NA,NA
+92394036,1,"Samochód osobowy",NA,NA,NA
+92394036,2,"Rower",NA,NA,NA
+92405945,1,"Samochód osobowy",NA,NA,NA
+92405945,2,"Rower",NA,NA,NA
+92405957,1,"Samochód osobowy",NA,NA,NA
+92405957,2,"Rower",NA,NA,NA
+92411962,1,"Rower",NA,NA,NA
+92411962,2,"Samochód osobowy",NA,NA,NA
+92442892,1,"Rower",NA,NA,NA
+92442892,2,"Samochód osobowy",NA,NA,NA
+92450876,1,"Samochód osobowy",NA,NA,NA
+92450876,2,"Rower",NA,NA,NA
+92452880,1,"Samochód osobowy",NA,NA,NA
+92452880,2,"Rower",NA,NA,NA
+92452884,1,"Samochód osobowy",NA,NA,NA
+92452884,2,"Rower",NA,NA,NA
+92455431,1,"Rower",NA,NA,NA
+92455431,2,"Samochód osobowy",NA,NA,NA
+92477351,1,"Rower",NA,NA,NA
+92477351,2,"Samochód osobowy",NA,NA,NA
+92478967,1,"Samochód osobowy",NA,NA,NA
+92478967,2,"Rower",NA,NA,NA
+92479287,1,"Rower",NA,NA,NA
+92482433,1,"Samochód osobowy",NA,NA,NA
+92482433,2,"Rower",NA,NA,NA
+92486518,1,"Samochód osobowy",NA,NA,NA
+92486518,2,"Rower",NA,NA,NA
+92486986,1,"Rower",NA,NA,NA
+92486986,2,"Samochód osobowy",NA,NA,NA
+92487849,1,"Samochód osobowy",NA,NA,NA
+92487849,2,"Rower",NA,NA,NA
+92491103,1,"Rower",NA,NA,NA
+92491103,2,"Samochód osobowy",NA,NA,NA
+92491116,1,"Rower",NA,NA,NA
+92491116,2,"Pojazd nieustalony",NA,NA,NA
+92494933,1,"Rower",NA,NA,NA
+92494933,2,"Samochód osobowy",NA,NA,NA
+92495317,1,"Rower",NA,NA,NA
+92495317,2,"Samochód osobowy",NA,NA,NA
+92498022,1,"Samochód osobowy",NA,NA,NA
+92498022,2,"Rower",NA,NA,NA
+92499369,1,"Rower",NA,NA,NA
+92499369,2,"Samochód osobowy",NA,NA,NA
+92499442,1,"Samochód osobowy",NA,NA,NA
+92499442,2,"Rower",NA,NA,NA
+92500031,1,"Samochód osobowy",NA,NA,NA
+92500031,2,"Rower",NA,NA,NA
+92505614,1,"Rower",NA,NA,NA
+92505614,2,"Autobus komunikacji publicznej",NA,NA,NA
+92509568,1,"Rower",NA,NA,NA
+92509568,2,"Samochód osobowy",NA,NA,NA
+92509588,1,"Rower",NA,NA,NA
+92509588,2,"Samochód osobowy",NA,NA,NA
+92528932,1,"Samochód osobowy",NA,NA,NA
+92528932,2,"Rower",NA,NA,NA
+92529803,1,"Rower",NA,NA,NA
+92529803,2,"Samochód osobowy",NA,NA,NA
+92529867,1,"Samochód osobowy",NA,NA,NA
+92529867,2,"Rower",NA,NA,NA
+92530920,1,"Rower",NA,NA,NA
+92530920,2,"Samochód osobowy",NA,NA,NA
+92530970,1,"Samochód osobowy",NA,NA,NA
+92530970,2,"Rower",NA,NA,NA
+92530970,3,"Samochód osobowy",NA,NA,NA
+92531050,1,"Rower",NA,NA,NA
+92531050,2,"Samochód osobowy",NA,NA,NA
+92532093,1,"Samochód osobowy",NA,NA,NA
+92532093,2,"Rower",NA,NA,NA
+92532879,1,"Samochód osobowy",NA,NA,NA
+92532879,2,"Rower",NA,NA,NA
+92536633,1,"Samochód osobowy",NA,NA,NA
+92536633,2,"Rower",NA,NA,NA
+92537640,1,"Rower",NA,NA,NA
+92537640,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92537800,1,"Rower",NA,NA,NA
+92537800,2,"Samochód osobowy",NA,NA,NA
+92538552,1,"Samochód osobowy",NA,NA,NA
+92538552,2,"Rower",NA,NA,NA
+92538695,1,"Samochód osobowy",NA,NA,NA
+92538695,2,"Rower",NA,NA,NA
+92539636,1,"Samochód osobowy",NA,NA,NA
+92539636,2,"Rower",NA,NA,NA
+92555521,1,"Rower",NA,NA,NA
+92555521,2,"Samochód osobowy",NA,NA,NA
+92556681,1,"Rower",NA,NA,NA
+92620254,1,"Rower",NA,NA,NA
+92621959,1,"Rower",NA,NA,NA
+92625915,1,"Rower",NA,NA,NA
+92625915,2,"Samochód osobowy",NA,NA,NA
+92631681,1,"Rower",NA,NA,NA
+92631681,2,"Samochód osobowy",NA,NA,NA
+92631924,1,"Samochód osobowy",NA,NA,NA
+92631924,2,"Rower",NA,NA,NA
+92631937,1,"Rower",NA,NA,NA
+92631937,2,"Samochód osobowy",NA,NA,NA
+92632731,1,"Samochód osobowy",NA,NA,NA
+92632731,2,"Rower",NA,NA,NA
+92656755,1,"Rower",NA,NA,NA
+92656755,2,"Samochód osobowy",NA,NA,NA
+92660955,1,"Rower",NA,NA,NA
+92660955,2,"Rower",NA,NA,NA
+92664209,1,"Samochód osobowy",NA,NA,NA
+92664209,2,"Rower",NA,NA,NA
+92674686,1,"Rower",NA,NA,NA
+92674686,2,"Inny",NA,NA,NA
+92674925,1,"Rower",NA,NA,NA
+92674925,2,"Samochód osobowy",NA,NA,NA
+92676008,1,"Samochód osobowy",NA,NA,NA
+92676008,2,"Rower",NA,NA,NA
+92681064,1,"Rower",NA,NA,NA
+92681064,2,"Samochód osobowy",NA,NA,NA
+92681496,1,"Rower",NA,NA,NA
+92681496,2,"Samochód osobowy",NA,NA,NA
+92689747,1,"Rower",NA,NA,NA
+92704102,1,"Samochód osobowy",NA,NA,NA
+92704102,2,"Rower",NA,NA,NA
+92719796,1,"Rower",NA,NA,NA
+92719796,2,"Samochód osobowy",NA,NA,NA
+92719876,1,"Samochód osobowy",NA,NA,NA
+92719876,2,"Rower",NA,NA,NA
+92720262,1,"Rower",NA,NA,NA
+92720262,2,"Samochód osobowy",NA,NA,NA
+92725016,1,"Rower",NA,NA,NA
+92725016,2,"Samochód osobowy",NA,NA,NA
+92725220,1,"Samochód osobowy",NA,NA,NA
+92725220,2,"Rower",NA,NA,NA
+92731215,1,"Samochód osobowy",NA,NA,NA
+92731215,2,"Rower",NA,NA,NA
+92732180,1,"Rower",NA,NA,NA
+92736844,1,"Samochód osobowy",NA,NA,NA
+92736844,2,"Rower",NA,NA,NA
+92742858,1,"Rower",NA,NA,NA
+92742858,2,"Samochód osobowy",NA,NA,NA
+92774730,1,"Samochód osobowy",NA,NA,NA
+92774730,2,"Rower",NA,NA,NA
+92775955,1,"Rower",NA,NA,NA
+92775955,2,"Samochód osobowy",NA,NA,NA
+92775955,3,"Samochód osobowy",NA,NA,NA
+92784144,1,"Rower",NA,NA,NA
+92784144,2,"Samochód osobowy",NA,NA,NA
+92789339,1,"Rower",NA,NA,NA
+92789339,2,"Samochód osobowy",NA,NA,NA
+92792795,1,"Rower",NA,NA,NA
+92792795,2,"Samochód osobowy",NA,NA,NA
+92792843,1,"Rower",NA,NA,NA
+92792843,2,"Samochód osobowy",NA,NA,NA
+92799866,1,"Rower",NA,NA,NA
+92799866,2,"Samochód osobowy",NA,NA,NA
+92801343,1,"Samochód osobowy",NA,NA,NA
+92801343,2,"Rower",NA,NA,NA
+92803965,1,"Rower",NA,NA,NA
+92803965,2,"Samochód osobowy",NA,NA,NA
+92804872,1,"Rower",NA,NA,NA
+92804872,2,"Samochód osobowy",NA,NA,NA
+92806042,1,"Samochód osobowy",NA,NA,NA
+92806042,2,"Rower",NA,NA,NA
+92823723,1,"Rower",NA,NA,NA
+92823723,2,"Samochód osobowy",NA,NA,NA
+92824714,1,"Samochód osobowy",NA,NA,NA
+92824714,2,"Rower",NA,NA,NA
+92840710,1,"Rower",NA,NA,NA
+92840710,2,"Samochód osobowy",NA,NA,NA
+92847959,1,"Rower",NA,NA,NA
+92847959,2,"Samochód osobowy",NA,NA,NA
+92855198,1,"Rower",NA,NA,NA
+92855198,2,"Samochód osobowy",NA,NA,NA
+92857671,1,"Rower",NA,NA,NA
+92857671,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+92859816,1,"Rower",NA,NA,NA
+92859816,2,"Samochód osobowy",NA,NA,NA
+92862536,1,"Rower",NA,NA,NA
+92862536,2,"Samochód osobowy",NA,NA,NA
+92873782,1,"Rower",NA,NA,NA
+92873782,2,"Samochód osobowy",NA,NA,NA
+92880297,1,"Samochód osobowy",NA,NA,NA
+92880297,2,"Rower",NA,NA,NA
+92880316,1,"Samochód osobowy",NA,NA,NA
+92880316,2,"Rower",NA,NA,NA
+92882273,1,"Rower",NA,NA,NA
+92882273,2,"Samochód osobowy",NA,NA,NA
+92883879,1,"Rower",NA,NA,NA
+92883879,2,"Samochód osobowy",NA,NA,NA
+92884809,1,"Rower",NA,NA,NA
+92884809,2,"Samochód osobowy",NA,NA,NA
+92899033,1,"Rower",NA,NA,NA
+92899033,2,"Inny",NA,NA,NA
+92905889,1,"Rower",NA,NA,NA
+92905889,2,"Samochód osobowy",NA,NA,NA
+93023105,1,"Rower",NA,NA,NA
+93023105,2,"Samochód osobowy",NA,NA,NA
+93036046,1,"Rower",NA,NA,NA
+93036046,2,"Samochód ciężarowy DMC powyżej 3,5 T",NA,NA,NA
+93089777,1,"Rower",NA,NA,NA

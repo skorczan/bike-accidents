@@ -1,0 +1,1190 @@
+"Id","ID pojazdu","ID pasażera","Rola","Data urodzenia","Płeć","Uprawnienia do prowadzenia pojazdu","Pod wpływem","Liczba lat kierowania","Przyczyna wypadku","Kara","Obrażenia"
+95874101,"1","1","Kierujący","1901-01-01","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95874101,"2","1","Kierujący","1971-04-27","Kobieta","Posiada","Trzeźwy","9","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+95874825,"1","1","Kierujący","1974-11-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+95874825,"2","1","Kierujący","1975-04-18","Kobieta","Posiada","Trzeźwy","8","Nieprawidłowe: skręcanie","Dochodzenie",NA
+95879987,"1","1","Kierujący","1956-04-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95879987,"2","1","Kierujący","1973-07-28","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+95884076,"1","1","Kierujący","1953-09-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95884076,"2","1","Kierujący","1963-10-24","Mężczyzna","Posiada","Trzeźwy","29","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+95887946,"1","1","Kierujący","1967-10-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95887946,"2","1","Kierujący","1991-04-24","Kobieta","Posiada","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+95887946,"3","1","Kierujący","1955-04-09","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+95899945,"1","1","Kierujący","1980-06-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95899945,"2","1","Kierujący","1961-10-15","Kobieta","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+95923943,"1","1","Kierujący","1978-01-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: zmienianie pasa ruchu","Dochodzenie","Ranny lekko"
+95923943,"2","1","Kierujący","1991-08-09","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+95930066,"1","1","Kierujący","1995-03-20","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ",NA
+95930066,"2","1","Kierujący","1988-03-02","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+95931966,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: cofanie","Wniosek o ukaranie",NA
+95931966,"2","1","Kierujący","1954-08-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95933153,"1","1","Kierujący","1953-07-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+95933153,"2","1","Kierujący","1967-08-18","Mężczyzna","Posiada","Trzeźwy","22","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+95938014,"1","1","Kierujący","1956-04-09","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+95938014,"2","1","Kierujący","1949-04-16","Mężczyzna","Posiada","Trzeźwy","9","Nieprawidłowe: omijanie","Mandat karny",NA
+95943071,"1","1","Kierujący","1972-10-17","Mężczyzna","Posiada","Trzeźwy","11",NA,NA,NA
+95943071,"2","1","Kierujący","1941-03-05","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,"Wniosek o ukaranie",NA
+95993992,"1","1","Kierujący","1949-11-09","Mężczyzna","Posiada","Trzeźwy","46",NA,NA,NA
+95993992,"2","1","Kierujący","1972-07-16","Mężczyzna","Posiada","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Wniosek o ukaranie",NA
+96047153,"1","1","Kierujący","1948-01-01","Mężczyzna","Posiada","Trzeźwy","8",NA,NA,NA
+96047153,"2","1","Kierujący","1986-11-24","Mężczyzna","Posiada","Trzeźwy","8",NA,NA,NA
+96047153,"3","1","Kierujący","1983-10-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+96050964,"1","1","Kierujący","1984-04-04","Mężczyzna","Nie posiada","Alkoholu",NA,NA,"Dochodzenie","Ranny lekko"
+96050964,"2","1","Kierujący","1972-04-07","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96052129,"1","1","Kierujący","1968-11-05","Mężczyzna","Posiada","Trzeźwy","18",NA,NA,NA
+96052129,"2","1","Kierujący","1999-08-09","Mężczyzna","Posiada","Trzeźwy","2","Nieudzielenie pierwszeństwa przejazdu","Inny organ",NA
+96054916,"1","1","Kierujący","1992-09-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96054916,"2","1","Kierujący","1982-11-17","Mężczyzna","Posiada","Trzeźwy","12","Nieprawidłowe: omijanie","Dochodzenie",NA
+96054943,"1","1","Kierujący","1976-06-17","Kobieta","Posiada","Trzeźwy","18",NA,NA,NA
+96054943,"2","1","Kierujący","1992-09-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Mandat karny",NA
+96066180,"1","1","Kierujący","1956-10-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96066180,"2","1","Kierujący","1949-08-06","Mężczyzna","Posiada","Trzeźwy","46","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96079023,"1","1","Kierujący","1986-07-08","Mężczyzna","Posiada","Trzeźwy",NA,"Nieprawidłowe: cofanie","Wniosek o ukaranie",NA
+96079023,"2","1","Kierujący","1994-10-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96152438,"1","1","Kierujący","1951-11-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96152438,"2","1","Kierujący","1955-12-07","Mężczyzna","Posiada","Trzeźwy","39","Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+96214117,"1","1","Kierujący","1977-02-05","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96214117,"2","1","Kierujący","1958-04-07","Kobieta","Nie wymagane","Trzeźwy","32","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96245355,"1","1","Kierujący","1980-01-23","Mężczyzna","Posiada","Trzeźwy","11",NA,NA,NA
+96245355,"2","1","Kierujący","1949-03-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie",NA,NA
+96294006,"1","1","Kierujący","1990-12-10","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+96294006,"2","1","Kierujący","1971-10-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+96311135,"1","1","Kierujący","1960-09-07","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+96311135,"2","1","Kierujący","1980-03-26","Mężczyzna","Posiada","Trzeźwy","14","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+96360977,"1","1","Kierujący","1931-05-17","Mężczyzna","Posiada","Trzeźwy","50",NA,NA,NA
+96360977,"2","1","Kierujący","1933-03-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Pouczenie",NA
+96376207,"1","1","Kierujący","1975-06-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96376207,"2","1","Kierujący","1972-07-14","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96470972,"1","1","Kierujący","1965-05-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96470972,"2","1","Kierujący","1993-06-08","Mężczyzna","Posiada","Trzeźwy","1","Niezachowanie bezp. odl. między pojazdami","Dochodzenie",NA
+96475964,"1","1","Kierujący","1984-09-19","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96475964,"2","1","Kierujący","1977-05-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Wniosek o ukaranie",NA
+96577471,"1","1","Kierujący","1983-07-04","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96577471,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96581507,"1","1","Kierujący","1970-04-25","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96581507,"2","1","Kierujący","1961-05-11","Mężczyzna","Posiada","Trzeźwy","15",NA,NA,NA
+96589151,"1","1","Kierujący","1966-01-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96589151,"2","1","Kierujący","1984-01-18","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96602447,"1","1","Kierujący","1994-04-03","Mężczyzna","Posiada","Trzeźwy","6","Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+96603271,"1","1","Kierujący","1979-07-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96603271,"2","1","Kierujący","1946-10-01","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96622001,"1","1","Kierujący","1976-04-22","Kobieta","Posiada","Trzeźwy","8",NA,NA,NA
+96622001,"2","1","Kierujący","1958-01-12","Mężczyzna","Nie posiada","Alkoholu",NA,"Jazda po niewłaściwej stronie drogi","Wniosek o ukaranie",NA
+96628966,"1","1","Kierujący","1945-12-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96628966,"2","1","Kierujący","1938-03-24","Mężczyzna","Posiada","Trzeźwy","33","Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+96661897,"1","1","Kierujący","2000-08-16","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,"Ranny lekko"
+96661897,"2","1","Kierujący","1978-05-13","Mężczyzna","Posiada","Trzeźwy","12",NA,NA,NA
+96661932,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96661932,"2","1","Kierujący","1988-06-14","Kobieta","Posiada","Trzeźwy","4",NA,NA,NA
+96663470,"1","1","Kierujący","1962-02-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96663470,"2","1","Kierujący","1972-11-03","Kobieta","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96663477,"1","1","Pasażer","1981-04-05","Kobieta",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+96663477,"1","2","Kierujący","1967-08-30","Mężczyzna","Posiada","Trzeźwy","26",NA,NA,NA
+96663477,"2","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96663489,"1","1","Kierujący","1942-11-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96663489,"2","1","Kierujący","1952-04-02","Mężczyzna","Posiada","Trzeźwy","41","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96667003,"1","1","Kierujący","1978-08-16","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96667003,"2","1","Kierujący","1983-03-27","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96668814,"1","1","Kierujący","1954-11-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96668814,"2","1","Kierujący","1971-03-15","Mężczyzna","Posiada","Trzeźwy","11","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96669175,"1","1","Kierujący","1953-12-10","Mężczyzna","Posiada","Trzeźwy","36",NA,NA,NA
+96669175,"2","1","Kierujący","2002-07-07","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ",NA
+96671293,"1","1","Kierujący","1955-06-05","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96671293,"2","1","Kierujący","2006-01-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny","Ranny lekko"
+96673080,"1","1","Kierujący","1973-05-10","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,"Mandat karny",NA
+96681035,"1","1","Kierujący","1960-01-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96686018,"1","1","Kierujący","1997-08-10","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,NA
+96686018,"2","1","Kierujący","1957-05-22","Mężczyzna","Posiada","Trzeźwy","11","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+96686635,"1","1","Kierujący","1942-01-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96686635,"2","1","Kierujący","1949-01-30","Mężczyzna","Nie wymagane","Trzeźwy","44","Nieudzielenie pierwszeństwa pieszemu","Mandat karny",NA
+96688092,"1","1","Kierujący","1955-04-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96688092,"2","1","Kierujący","1969-09-26","Mężczyzna","Nie posiada","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96698672,"1","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Wniosek o ukaranie",NA
+96706969,"1","1","Kierujący","1973-05-30","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96706969,"2","1","Kierujący","1979-09-28","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96713013,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96713013,"2","1","Kierujący","2000-04-01","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+96714431,"1","1","Kierujący","1988-10-22","Mężczyzna","Posiada","Trzeźwy","5","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96714431,"2","1","Kierujący","1952-02-20","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96719599,"1","1","Kierujący","1965-12-21","Mężczyzna","Posiada","Trzeźwy","32",NA,NA,NA
+96719599,"2","1","Kierujący","1994-11-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96727998,"1","1","Kierujący","1980-09-08","Kobieta","Posiada","Trzeźwy","10",NA,NA,NA
+96727998,"2","1","Kierujący","1996-01-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96751088,"1","1","Kierujący","1923-09-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96751088,"2","1","Kierujący","1957-02-22","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96765210,"1","1","Kierujący","1944-07-25","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Pouczenie",NA
+96765210,"2","1","Kierujący","1991-01-18","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+96783936,"1","1","Kierujący","1979-10-05","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96783936,"2","1","Kierujący","1968-12-08","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96784307,"1","1","Kierujący","1988-01-08","Kobieta","Nie wymagane","Trzeźwy","0",NA,NA,NA
+96784307,"2","1","Kierujący","2001-08-24","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie","Ranny lekko"
+96786151,"1","1","Kierujący","1959-08-23","Mężczyzna","Posiada","Trzeźwy","30",NA,NA,NA
+96786151,"2","1","Kierujący","1992-09-01","Mężczyzna","Posiada","Trzeźwy","1","Niedostosowanie prędkości do warunków ruchu","Mandat karny",NA
+96786587,"1","1","Kierujący","1980-01-08","Kobieta","Posiada","Trzeźwy","4",NA,NA,NA
+96786587,"2","1","Kierujący","1928-02-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96788636,"1","1","Kierujący","1993-09-01","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: omijanie","Dochodzenie",NA
+96791093,"1","1","Kierujący","1983-01-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96791093,"2","1","Kierujący","1966-10-21","Kobieta","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96791603,"1","1","Kierujący","1990-12-02","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+96791603,"2","1","Kierujący","1978-09-10","Mężczyzna","Posiada","Trzeźwy","16","Niedostosowanie prędkości do warunków ruchu","Mandat karny",NA
+96791625,"1","1","Kierujący","1974-08-26","Mężczyzna","Posiada","Trzeźwy","21","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96791625,"2","1","Kierujący","1998-10-28","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+96791782,"1","1","Kierujący","1957-10-06","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96791782,"2","1","Kierujący","1936-06-05","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96792764,"1","1","Kierujący","2002-12-27","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96792764,"2","1","Kierujący","1966-10-06","Kobieta","Posiada","Trzeźwy","15","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96792981,"1","1","Kierujący","1943-06-16","Mężczyzna","Posiada","Trzeźwy","37",NA,NA,NA
+96792981,"2","1","Kierujący","1978-05-02","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96793765,"1","1","Kierujący","1982-08-13","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96793765,"2","1","Kierujący","1993-12-10","Kobieta","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96795160,"1","1","Kierujący","1950-02-13","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,NA
+96795160,"2","1","Kierujący","1958-07-12","Mężczyzna","Posiada","Trzeźwy","8","Nieprawidłowe: cofanie","Pouczenie",NA
+96795465,"1","1","Kierujący","1947-06-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny",NA
+96795465,"2","1","Kierujący","1984-11-03","Kobieta","Posiada","Trzeźwy","9",NA,NA,NA
+96795690,"1","1","Kierujący","1979-01-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96795690,"2","1","Kierujący","1958-03-31","Mężczyzna","Posiada","Trzeźwy","34","Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+96796397,"1","1","Kierujący","1953-08-05","Mężczyzna","Posiada","Trzeźwy","39",NA,NA,NA
+96796397,"2","1","Kierujący","1966-05-15","Mężczyzna","Posiada","Trzeźwy","28","Wjazd przy czerwonym świetle","Dochodzenie","Ranny lekko"
+96796456,"1","1","Kierujący","1949-11-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96796456,"2","1","Kierujący","1951-11-20","Mężczyzna","Posiada","Trzeźwy","40","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96796770,"1","1","Kierujący","1984-07-04","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,NA
+96796770,"2","1","Kierujący","1958-01-25","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny",NA
+96797187,"1","1","Kierujący","1988-10-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny ciężko"
+96797213,"1","1","Kierujący","1943-02-08","Mężczyzna","Posiada","Trzeźwy","51","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Dochodzenie",NA
+96797213,"2","1","Kierujący","1973-01-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96797385,"1","1","Kierujący","1991-07-23","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96797385,"2","1","Kierujący","1971-02-22","Kobieta","Posiada","Trzeźwy","22","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+96797385,"3","1","Kierujący","1972-04-14","Kobieta","Posiada","Trzeźwy","9",NA,NA,NA
+96797651,"1","1","Kierujący","1929-01-03","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Pouczenie","Ranny lekko"
+96797651,"2","1","Kierujący","1979-05-25","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96797669,"1","1","Kierujący","1958-01-17","Mężczyzna","Posiada","Trzeźwy","35",NA,NA,NA
+96797669,"2","1","Kierujący","2001-04-06","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,"Ranny ciężko"
+96797777,"1","1","Kierujący","1946-05-23","Mężczyzna","Posiada","Trzeźwy","28",NA,NA,NA
+96797777,"2","1","Kierujący","2002-09-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Inny organ",NA
+96798596,"1","1","Kierujący","1944-02-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+96798596,"2","1","Kierujący","1966-02-09","Mężczyzna","Posiada","Trzeźwy","29",NA,NA,NA
+96798670,"1","1","Kierujący","1970-11-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96798670,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+96799650,"1","1","Kierujący","1998-11-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96799650,"2","1","Kierujący","1949-11-01","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96800842,"1","1","Kierujący","2001-05-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96800842,"2","1","Kierujący","1981-08-04","Kobieta","Posiada","Trzeźwy","9",NA,"Mandat karny",NA
+96801064,"1","1","Kierujący","1937-02-18","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96801064,"2","1","Kierujący","1956-07-03","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96801212,"1","1","Kierujący","1979-12-24","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96801212,"2","1","Kierujący","1945-04-10","Mężczyzna","Posiada","Trzeźwy","31","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96801350,"1","1","Kierujący","1952-05-16","Kobieta","Posiada","Trzeźwy","13",NA,NA,NA
+96801350,"2","1","Kierujący","1936-01-02","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Dochodzenie","Ranny ciężko"
+96801352,"1","1","Kierujący","1975-02-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96801352,"2","1","Kierujący","1977-10-03","Kobieta","Posiada","Trzeźwy","20",NA,NA,NA
+96801865,"1","1","Kierujący","1950-07-25","Mężczyzna","Posiada","Trzeźwy","42",NA,NA,NA
+96801865,"2","1","Kierujący","1986-01-26","Mężczyzna","Nie wymagane","Alkoholu",NA,"Niedostosowanie prędkości do warunków ruchu","Wniosek o ukaranie",NA
+96803385,"1","1","Kierujący","1970-05-08","Kobieta","Posiada","Trzeźwy","6",NA,NA,NA
+96803385,"2","1","Kierujący","1997-12-17","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ",NA
+96803450,"1","1","Kierujący","1976-12-25","Mężczyzna","Posiada","Trzeźwy","15",NA,NA,NA
+96803450,"2","1","Kierujący","2002-06-05","Kobieta","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ","Ranny lekko"
+96803459,"1","1","Kierujący","1982-04-17","Mężczyzna","Posiada","Trzeźwy","13",NA,NA,NA
+96803459,"2","1","Kierujący","1932-01-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96803572,"1","1","Kierujący","1992-09-01","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96803572,"2","1","Kierujący","1980-12-24","Kobieta","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96804702,"1","1","Kierujący","1954-12-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96804702,"2","1","Kierujący","1966-01-31","Kobieta","Posiada","Trzeźwy","26","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+96806253,"1","1","Kierujący","1952-07-19","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,"Dochodzenie","Ranny lekko"
+96806431,"1","1","Kierujący","2000-11-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+96806541,"1","1","Kierujący","1999-06-02","Kobieta","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie","Ranny lekko"
+96806541,"2","1","Kierujący","1992-09-09","Kobieta","Posiada","Trzeźwy","1",NA,NA,NA
+96806696,"1","1","Kierujący","1967-11-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu",NA,"Ranny lekko"
+96808517,"1","1","Kierujący","1990-03-29","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+96808517,"2","1","Kierujący","1953-01-18","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96808803,"1","1","Kierujący","1969-04-28","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96808803,"2","1","Kierujący","1977-12-28","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96811407,"1","1","Kierujący","1964-12-27","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,NA,"Ranny lekko"
+96812916,"1","1","Kierujący","1960-08-22","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96812916,"2","1","Kierujący","1950-01-01","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96814604,"1","1","Kierujący","1990-10-09","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96814604,"2","1","Kierujący","1945-04-04","Mężczyzna","Posiada","Trzeźwy","52","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+96814771,"1","1","Kierujący","2000-09-26","Mężczyzna","Posiada","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Pouczenie","Ranny lekko"
+96815338,"1","1","Kierujący","1998-08-13","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96815338,"2","1","Kierujący","1980-07-27","Kobieta","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96815617,"1","1","Kierujący","1919-10-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96815617,"2","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie",NA
+96816750,"1","1","Kierujący","1959-03-20","Kobieta","Posiada","Trzeźwy","4",NA,NA,NA
+96816750,"2","1","Kierujący","1953-01-21","Mężczyzna","Posiada","Trzeźwy","41","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96816792,"1","1","Kierujący","1955-08-16","Mężczyzna","Posiada","Trzeźwy","29",NA,NA,NA
+96816792,"2","1","Kierujący","1963-06-12","Mężczyzna","Nie wymagane","Trzeźwy","29","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96816802,"1","1","Kierujący","1958-07-13","Mężczyzna","Posiada","Trzeźwy","40",NA,NA,NA
+96816802,"2","1","Kierujący","1964-05-13","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96817339,"1","1","Kierujący","1989-02-20","Mężczyzna","Posiada","Trzeźwy","5",NA,NA,NA
+96817339,"2","1","Kierujący","2000-12-26","Mężczyzna","Posiada","Trzeźwy","1","Nieprawidłowe: skręcanie","Pouczenie",NA
+96817422,"1","1","Kierujący","1991-08-14","Kobieta","Posiada","Trzeźwy","2","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+96817422,"2","1","Kierujący","1968-08-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96820847,"1","1","Kierujący","1943-09-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96820847,"2","1","Kierujący","1936-10-15","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96820901,"1","1","Kierujący","1968-05-23","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96820901,"2","1","Kierujący","2004-04-27","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96820901,"3","1","Kierujący","1988-09-12","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96820934,"1","1","Kierujący","1949-01-30","Mężczyzna","Posiada","Trzeźwy","47",NA,NA,NA
+96820934,"2","1","Kierujący","1958-10-06","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: omijanie","Wniosek o ukaranie",NA
+96821410,"1","1","Kierujący","1987-04-08","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96821410,"2","1","Kierujący","1981-08-17","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,NA
+96821443,"1","1","Kierujący","1983-09-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96821443,"2","1","Kierujący","1952-12-17","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96821448,"1","1","Kierujący","1990-06-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96821448,"2","1","Kierujący","1972-10-13","Mężczyzna","Posiada","Trzeźwy","29","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96822317,"1","1","Kierujący","1942-06-15","Kobieta","Posiada","Trzeźwy","38","Nieudzielenie pierwszeństwa pieszemu","Mandat karny",NA
+96822317,"2","1","Kierujący","1993-10-31","Kobieta","Nie posiada","Trzeźwy",NA,NA,NA,NA
+96822365,"1","1","Kierujący","1958-03-04","Mężczyzna","Posiada","Trzeźwy","24",NA,NA,NA
+96822365,"2","1","Kierujący","1980-01-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96822756,"1","1","Kierujący","1951-01-06","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96822756,"2","1","Kierujący","1936-09-13","Mężczyzna","Posiada","Trzeźwy","51","Nieprawidłowe: skręcanie","Dochodzenie",NA
+96823137,"1","1","Kierujący","1991-12-03","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96823137,"2","1","Kierujący","1969-01-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96823515,"1","1","Kierujący","1952-02-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Pouczenie","Ranny ciężko"
+96824318,"1","1","Kierujący","1949-02-18","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96824318,"2","1","Kierujący","1948-10-26","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,"Dochodzenie","Ranny lekko"
+96825018,"1","1","Kierujący","2005-12-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96825018,"2","1","Kierujący","1991-11-26","Mężczyzna","Posiada","Trzeźwy","2","Nieprawidłowe: omijanie","Wniosek o ukaranie",NA
+96825227,"1","1","Kierujący","1955-08-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96825233,"1","1","Kierujący","1987-10-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96825233,"2","1","Kierujący","1990-03-01","Mężczyzna","Posiada","Trzeźwy","4","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96825240,"1","1","Kierujący","1974-03-18","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,NA
+96825240,"2","1","Kierujący","1991-02-01","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie","Ranny lekko"
+96825511,"1","1","Kierujący","1957-03-26","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96825511,"2","1","Kierujący","1968-01-24","Mężczyzna","Posiada","Trzeźwy","26","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96825546,"1","1","Kierujący","1985-02-04","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+96825546,"2","1","Kierujący","1985-08-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96825796,"1","1","Kierujący","1974-08-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Pouczenie","Ranny lekko"
+96826888,"1","1","Kierujący","1955-11-29","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96826888,"2","1","Kierujący","1978-06-07","Mężczyzna","Posiada","Trzeźwy","11","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96827989,"1","1","Kierujący","1992-11-08","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96827989,"2","1","Kierujący","1962-12-13","Mężczyzna","Posiada","Trzeźwy","12","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+96828521,"1","1","Kierujący","1957-09-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Mandat karny",NA
+96828521,"2","1","Kierujący","1956-04-28","Kobieta","Posiada","Trzeźwy","22",NA,NA,NA
+96828694,"1","1","Kierujący","1936-03-05","Mężczyzna","Posiada","Trzeźwy","40",NA,NA,NA
+96828694,"2","1","Kierujący","1979-11-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96829050,"1","1","Kierujący","1940-09-29","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96829050,"2","1","Kierujący","1980-06-25","Mężczyzna","Posiada","Trzeźwy","14","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96830763,"1","1","Kierujący","1980-09-10","Mężczyzna","Posiada","Trzeźwy","24",NA,NA,NA
+96830763,"2","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+96830919,"1","1","Kierujący","2002-02-28","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Wjazd przy czerwonym świetle","Wniosek o ukaranie","Ranny lekko"
+96830919,"2","1","Kierujący","1989-04-15","Kobieta","Posiada","Trzeźwy","2",NA,NA,NA
+96831038,"1","1","Kierujący","1982-11-03","Mężczyzna","Posiada","Trzeźwy","4","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96831038,"2","1","Kierujący","1994-12-04","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96831547,"1","1","Kierujący","1962-04-21","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,NA,"Ranny lekko"
+96831547,"2","1","Kierujący","1990-10-22","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96832168,"1","1","Kierujący","1950-12-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Wniosek o ukaranie",NA
+96832168,"2","1","Kierujący","1949-04-06","Mężczyzna","Posiada","Trzeźwy","28",NA,NA,NA
+96832266,"1","1","Kierujący","1963-07-19","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96832266,"2","1","Kierujący","2007-10-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96832412,"1","1","Kierujący","1966-12-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96832412,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96832853,"1","1","Kierujący","1979-11-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96832853,"2","1","Kierujący","1947-07-24","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96832919,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Wniosek o ukaranie",NA
+96835136,"1","1","Kierujący","1982-09-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96835136,"2","1","Kierujący","1982-05-12","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96838071,"1","1","Kierujący","1970-05-11","Mężczyzna","Posiada","Trzeźwy","24",NA,NA,NA
+96838071,"2","1","Kierujący","1993-02-23","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96839763,"1","1","Kierujący","1940-09-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96839763,"2","1","Kierujący","1978-07-11","Mężczyzna","Posiada","Trzeźwy","6","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96839988,"1","1","Kierujący","1988-01-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96839988,"2","1","Kierujący","1985-08-22","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96839992,"1","1","Kierujący","1989-12-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96839992,"2","1","Kierujący","1944-08-14","Mężczyzna","Posiada","Trzeźwy","36","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96839993,"1","1","Kierujący","1981-02-04","Mężczyzna","Posiada","Trzeźwy","5","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96839993,"2","1","Kierujący","1951-07-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96840174,"1","1","Kierujący","1967-12-26","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96840174,"2","1","Kierujący","1930-05-05","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96840344,"1","1","Kierujący","2003-11-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Inny organ","Ranny lekko"
+96840344,"2","1","Kierujący","1974-06-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: cofanie","Inny organ",NA
+96840503,"1","1","Kierujący","1983-05-19","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,NA
+96840503,"2","1","Kierujący","2000-10-12","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96840816,"1","1","Kierujący","2001-12-01","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Pouczenie",NA
+96840816,"2","1","Kierujący","1993-10-06","Mężczyzna","Posiada","Trzeźwy","1","Nieprawidłowe: wymijanie","Mandat karny",NA
+96841410,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,"Dochodzenie",NA
+96841410,"2","1","Kierujący","1999-06-06","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96841813,"1","1","Kierujący","1963-10-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96841813,"2","1","Kierujący","1987-10-12","Kobieta","Posiada","Trzeźwy","6","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96841821,"1","1","Kierujący","1957-01-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96841821,"2","1","Kierujący","1976-04-15","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96842955,"1","1","Kierujący","1979-09-02","Mężczyzna","Posiada","Trzeźwy","6","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96842955,"2","1","Kierujący","1995-11-28","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96842976,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96843404,"1","1","Kierujący","1962-01-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96843404,"2","1","Kierujący","1993-11-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96843745,"1","1","Kierujący","2003-03-26","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96843745,"2","1","Kierujący","1955-08-31","Kobieta","Posiada","Trzeźwy",NA,NA,"Pouczenie",NA
+96843944,"1","1","Kierujący","1990-02-20","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+96843944,"2","1","Kierujący","1984-09-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Pouczenie","Ranny ciężko"
+96844125,"1","1","Kierujący","1993-01-11","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny",NA
+96844125,"2","1","Kierujący","1950-06-07","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96844448,"1","1","Kierujący","1946-09-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96844448,"2","1","Kierujący","1985-07-23","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96844455,"1","1","Kierujący","1968-11-02","Kobieta","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Ranny lekko"
+96844455,"2","1","Kierujący","1973-12-05","Mężczyzna","Posiada","Trzeźwy","22",NA,NA,NA
+96844584,"1","1","Kierujący","1960-01-21","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96844584,"2","1","Kierujący","1936-03-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96844589,"1","1","Kierujący","1952-08-02","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96844589,"2","1","Kierujący","1994-04-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+96844673,"1","1","Kierujący","1989-09-21","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+96844673,"2","1","Kierujący","1993-09-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie","Ranny lekko"
+96844806,"1","1","Kierujący","1999-03-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96844806,"2","1","Kierujący","1967-03-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Dochodzenie",NA
+96845210,"1","1","Kierujący","1956-05-07","Mężczyzna","Posiada","Trzeźwy","38",NA,NA,NA
+96845210,"2","1","Kierujący","1998-10-30","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96845246,"1","1","Kierujący","1955-05-03","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96845246,"2","1","Kierujący","1968-01-16","Mężczyzna","Posiada","Trzeźwy","23","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96846249,"1","1","Kierujący","1970-05-15","Mężczyzna","Posiada","Trzeźwy","25",NA,NA,NA
+96846249,"2","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96846763,"1","1","Kierujący","2004-08-16","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,"Ranny lekko"
+96846763,"2","1","Kierujący","1973-08-02","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+96847198,"1","1","Kierujący","1934-11-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+96847198,"2","1","Kierujący","1983-07-14","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96847311,"1","1","Kierujący","1953-06-24","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: zmienianie pasa ruchu","Dochodzenie",NA
+96847311,"2","1","Kierujący","1989-12-02","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+96847932,"1","1","Kierujący","1976-07-08","Mężczyzna","Posiada","Trzeźwy","19",NA,NA,NA
+96847932,"2","1","Kierujący","2001-01-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Dochodzenie","Ranny ciężko"
+96847939,"1","1","Kierujący","1988-02-25","Mężczyzna","Posiada","Trzeźwy","6",NA,NA,NA
+96847939,"2","1","Kierujący","1961-10-17","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Dochodzenie",NA
+96848181,"1","1","Kierujący","1982-03-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96848181,"2","1","Kierujący","1990-03-05","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96848291,"1","1","Kierujący","1974-10-12","Kobieta","Posiada","Trzeźwy","20",NA,NA,NA
+96848291,"2","1","Kierujący","1986-10-23","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96848881,"1","1","Kierujący","1982-10-02","Kobieta","Posiada","Trzeźwy","9",NA,NA,NA
+96848881,"2","1","Kierujący","2003-06-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Inny organ",NA
+96848892,"1","1","Kierujący","1969-05-09","Kobieta","Posiada","Trzeźwy","32",NA,NA,NA
+96848892,"2","1","Kierujący","1997-03-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami",NA,NA
+96849019,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie",NA
+96849380,"1","1","Kierujący","1958-06-25","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,NA,"Ranny lekko"
+96849380,"2","1","Kierujący","1965-01-05","Kobieta","Posiada","Trzeźwy","27","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96849504,"1","1","Kierujący","1966-02-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96849504,"2","1","Kierujący","1975-06-26","Mężczyzna","Posiada","Trzeźwy","15","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96849973,"1","1","Kierujący","1946-08-04","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,NA,"Ranny ciężko"
+96849973,"2","1","Kierujący","1986-05-11","Mężczyzna","Posiada","Trzeźwy","8","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+96850459,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Gwałtowne hamowanie","Wniosek o ukaranie",NA
+96850459,"2","1","Kierujący","1986-06-24","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96850486,"1","1","Kierujący","1943-02-08","Kobieta","Posiada","Trzeźwy","51","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96850486,"2","1","Kierujący","1972-10-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96851168,"1","1","Kierujący","1992-08-17","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+96851168,"2","1","Pasażer","2000-09-11","Kobieta",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+96851168,"2","2","Kierujący","2000-04-12","Kobieta","Posiada","Trzeźwy","1","Nieprzestrzeganie innych sygnałów",NA,"Ranny lekko"
+96852591,"1","1","Kierujący","1930-03-24","Mężczyzna","Posiada","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Pouczenie",NA
+96852591,"2","1","Kierujący","1983-07-12","Mężczyzna","Posiada","Trzeźwy",NA,NA,"Pouczenie",NA
+96853163,"1","1","Kierujący","1989-05-18","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprzestrzeganie innych sygnałów","Dochodzenie",NA
+96853723,"1","1","Kierujący","1968-10-25","Kobieta","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Inny organ",NA
+96854460,"1","1","Kierujący","1952-12-01","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96854460,"2","1","Kierujący","1977-07-26","Mężczyzna","Posiada","Trzeźwy","16","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96854803,"1","1","Kierujący","1972-02-11","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96854803,"2","1","Kierujący","2005-08-18","Kobieta","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96856058,"1","1","Kierujący","1939-07-04","Mężczyzna","Posiada","Trzeźwy","52","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96856058,"2","1","Kierujący","1977-02-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96856152,"1","1","Kierujący","1950-04-12","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie","Ranny ciężko"
+96856152,"2","1","Kierujący","1950-04-09","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96856728,"1","1","Kierujący","1991-11-22","Mężczyzna","Posiada","Trzeźwy","2","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96856728,"2","1","Kierujący","1989-10-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96856732,"1","1","Kierujący","1981-11-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Dochodzenie","Ranny lekko"
+96856732,"2","1","Kierujący","1952-01-25","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96856862,"1","1","Kierujący","1947-04-29","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96856862,"2","1","Kierujący","1971-05-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Dochodzenie",NA
+96859110,"1","1","Kierujący","1980-11-07","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+96859110,"2","1","Kierujący","1985-10-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96859393,"1","1","Kierujący","1950-04-08","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96859393,"2","1","Kierujący","1968-03-20","Kobieta","Posiada","Trzeźwy","22","Nieprawidłowe: omijanie","Mandat karny",NA
+96860121,"1","1","Kierujący","1958-02-11","Mężczyzna","Posiada","Trzeźwy","38",NA,NA,NA
+96860121,"2","1","Kierujący","1959-07-13","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+96860207,"1","1","Kierujący","1967-10-31","Mężczyzna","Posiada","Trzeźwy","16",NA,NA,NA
+96860207,"2","1","Kierujący","1956-10-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Mandat karny",NA
+96860707,"1","1","Kierujący","1952-10-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96860707,"2","1","Kierujący","1978-04-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96861540,"1","1","Kierujący","1952-11-02","Mężczyzna","Posiada","Trzeźwy","36","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96861540,"2","1","Kierujący","1996-05-27","Kobieta","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych",NA,"Ranny lekko"
+96862053,"1","1","Kierujący","1941-11-08","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,"Ranny lekko"
+96862053,"2","1","Kierujący","1979-12-22","Kobieta","Posiada","Trzeźwy","9","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96862173,"1","1","Kierujący","1988-07-15","Mężczyzna","Posiada","Trzeźwy","6",NA,NA,NA
+96862173,"2","1","Kierujący","2008-03-03","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ","Ranny lekko"
+96862473,"1","1","Kierujący","1990-06-16","Kobieta","Posiada","Trzeźwy","3",NA,NA,NA
+96862473,"2","1","Kierujący","1949-02-25","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: wymijanie","Wniosek o ukaranie",NA
+96862674,"1","1","Kierujący","1975-02-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96862674,"2","1","Kierujący","1974-08-01","Kobieta","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Wniosek o ukaranie",NA
+96864491,"1","1","Kierujący","1973-10-02","Mężczyzna","Posiada","Trzeźwy","7","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96864491,"2","1","Kierujący","1960-01-09","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96865148,"1","1","Kierujący","1945-05-07","Kobieta","Posiada","Trzeźwy","49",NA,NA,"Ranny ciężko"
+96865148,"2","1","Kierujący","1954-11-16","Mężczyzna","Posiada","Trzeźwy","39","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96866817,"1","1","Kierujący","1971-04-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96866817,"2","1","Kierujący","1994-12-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Dochodzenie","Ranny ciężko"
+96866874,"1","1","Kierujący","1953-08-21","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96866874,"2","1","Kierujący","1976-08-05","Mężczyzna","Posiada","Trzeźwy","13","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96867527,"1","1","Kierujący","1995-07-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96867527,"2","1","Kierujący","1979-06-13","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96868326,"1","1","Kierujący","1974-06-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96868326,"2","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96874855,"1","1","Kierujący","1989-08-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96874855,"2","1","Kierujący","1958-03-26","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96875899,"1","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96875899,"2","1","Kierujący","1980-06-01","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96875969,"1","1","Kierujący","1993-11-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96875969,"2","1","Kierujący","1996-11-17","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+96875969,"3","1","Kierujący","1956-09-27","Kobieta","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96876222,"1","1","Kierujący","1968-09-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96876222,"2","1","Kierujący","1992-12-19","Mężczyzna","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96876497,"1","1","Kierujący","1983-12-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96876497,"2","1","Kierujący","1976-02-04","Mężczyzna","Posiada","Trzeźwy","18","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96876506,"1","1","Kierujący","1977-04-22","Kobieta","Posiada","Trzeźwy","15","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Mandat karny",NA
+96876506,"2","1","Kierujący","1988-08-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96876980,"1","1","Kierujący","1978-12-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96876980,"2","1","Kierujący","1969-07-17","Kobieta","Posiada","Trzeźwy","6","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96876994,"1","1","Kierujący","1969-04-13","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96876994,"2","1","Kierujący","1963-08-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Wniosek o ukaranie",NA
+96877086,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,NA
+96877086,"2","1","Kierujący","1949-10-26","Mężczyzna","Posiada","Trzeźwy","8",NA,NA,NA
+96877125,"1","1","Kierujący","1978-02-19","Mężczyzna","Nie wymagane","Trzeźwy","17",NA,NA,NA
+96877125,"2","1","Kierujący","1943-07-24","Mężczyzna","Posiada","Alkoholu","47","Nieprawidłowe: zmienianie pasa ruchu","Wniosek o ukaranie",NA
+96877979,"1","1","Kierujący","1999-01-02","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Pouczenie",NA
+96878526,"1","1","Kierujący","1953-01-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny ciężko"
+96879504,"1","1","Kierujący","1985-02-28","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96881851,"1","1","Kierujący","1979-07-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Gwałtowne hamowanie","Dochodzenie","Ranny lekko"
+96881851,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,NA,NA
+96884447,"1","1","Kierujący","1953-04-16","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96884447,"2","1","Kierujący","1984-04-05","Kobieta","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96892421,"1","1","Kierujący","1996-10-18","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,NA
+96892421,"2","1","Kierujący","1999-06-24","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie","Ranny lekko"
+96893447,"1","1","Kierujący","1955-02-27","Kobieta","Posiada","Trzeźwy","2",NA,NA,NA
+96893447,"2","1","Kierujący","2002-10-09","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+96893449,"1","1","Kierujący","1932-11-28","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96893449,"2","1","Kierujący","1957-02-14","Mężczyzna","Posiada","Trzeźwy","37","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96893482,"1","1","Kierujący","1981-02-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96893482,"2","1","Kierujący","1957-11-28","Mężczyzna","Posiada","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+96893540,"1","1","Pasażer","2005-06-15","Mężczyzna",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+96893540,"1","2","Pasażer","2006-02-16","Kobieta",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+96893540,"1","3","Kierujący","1982-09-02","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96893615,"1","1","Kierujący","1977-10-26","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96893615,"2","1","Kierujący","1952-09-10","Mężczyzna","Posiada","Trzeźwy","42","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96900508,"1","1","Kierujący","1959-10-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Wjazd przy czerwonym świetle","Wniosek o ukaranie",NA
+96900508,"2","1","Kierujący","1982-03-24","Mężczyzna","Posiada","Trzeźwy","8","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+96900527,"1","1","Kierujący","1973-10-13","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96900527,"2","1","Kierujący","1985-05-14","Kobieta","Posiada","Trzeźwy","9","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96900592,"1","1","Kierujący","1973-10-07","Kobieta","Posiada","Trzeźwy","16",NA,NA,NA
+96900592,"2","1","Kierujący","1958-11-24","Mężczyzna","Nie wymagane","Alkoholu",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie",NA
+96901458,"1","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie",NA
+96901458,"2","1","Kierujący","1945-10-25","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96902503,"1","1","Kierujący","1995-03-22","Mężczyzna","Posiada","Trzeźwy","6","Jazda po niewłaściwej stronie drogi","Wniosek o ukaranie",NA
+96902503,"2","1","Kierujący","1981-05-12","Kobieta","Posiada","Trzeźwy","14",NA,NA,NA
+96902505,"1","1","Kierujący","1924-08-20","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96902505,"2","1","Kierujący","1978-11-11","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96902723,"1","1","Kierujący","1973-02-18","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,NA
+96902723,"2","1","Kierujący","1998-12-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96903543,"1","1","Kierujący","1943-04-01","Kobieta","Posiada","Trzeźwy","53","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96903543,"2","1","Kierujący","1979-12-05","Kobieta","Posiada","Trzeźwy","25",NA,NA,"Ranny lekko"
+96903593,"1","1","Kierujący","1957-01-25","Kobieta","Posiada","Trzeźwy","37",NA,NA,NA
+96903593,"2","1","Kierujący","1951-01-14","Mężczyzna","Posiada","Trzeźwy","21","Wjazd przy czerwonym świetle","Dochodzenie",NA
+96904928,"1","1","Kierujący","1987-01-31","Mężczyzna","Posiada","Trzeźwy","7",NA,NA,NA
+96904928,"2","1","Kierujący","1971-01-06","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Smierć na miejscu"
+96905161,"1","1","Kierujący","1968-07-01","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96905161,"2","1","Pasażer","2011-01-04","Mężczyzna",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+96905161,"2","2","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie",NA
+96905178,"1","1","Kierujący","1962-02-09","Mężczyzna",NA,"Trzeźwy",NA,NA,NA,NA
+96905178,"2","1","Kierujący","1983-07-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+96905223,"1","1","Kierujący","1957-06-07","Kobieta","Posiada","Trzeźwy","27",NA,NA,NA
+96905223,"2","1","Kierujący","1996-10-14","Mężczyzna","Nie posiada","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Ranny lekko"
+96905291,"1","1","Kierujący","1937-09-17","Mężczyzna","Posiada","Trzeźwy","55","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+96905291,"2","1","Kierujący","1996-05-02","Kobieta","Nie posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96905600,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,NA,NA
+96905600,"2","1","Kierujący","1987-12-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Dochodzenie","Ranny lekko"
+96905963,"1","1","Kierujący","1959-09-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Śmierć w ciągu 30 dni"
+96905963,"2","1","Kierujący","1958-10-04","Mężczyzna","Posiada","Trzeźwy","34",NA,NA,NA
+96905996,"1","1","Kierujący","1950-10-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96905996,"2","1","Kierujący","1981-03-14","Mężczyzna","Posiada","Trzeźwy","14","Nieprawidłowe: zmienianie pasa ruchu","Mandat karny",NA
+96906728,"1","1","Kierujący","1976-11-07","Kobieta","Posiada","Trzeźwy","8",NA,NA,NA
+96906728,"2","1","Kierujący","1962-05-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+96906995,"1","1","Kierujący","1958-10-10","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96906995,"2","1","Kierujący","1947-08-01","Kobieta","Posiada","Trzeźwy","32","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96907526,"1","1","Kierujący","1979-09-20","Mężczyzna","Posiada","Trzeźwy","12",NA,NA,NA
+96907526,"2","1","Kierujący","1948-04-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Pouczenie",NA
+96908875,"1","1","Kierujący","2001-07-29","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,NA
+96908875,"2","1","Kierujący","1980-01-24","Kobieta","Posiada","Trzeźwy","2","Nieprawidłowe: wymijanie","Pouczenie",NA
+96909212,"1","1","Kierujący","1990-06-13","Mężczyzna","Posiada","Trzeźwy","2",NA,"Dochodzenie",NA
+96909212,"2","1","Kierujący","1928-04-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96909272,"1","1","Kierujący","1982-04-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96909272,"2","1","Kierujący","1946-06-25","Mężczyzna","Posiada","Trzeźwy","44","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96909499,"1","1","Kierujący","1977-08-10","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96909499,"2","1","Kierujący","1982-08-12","Kobieta","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96909554,"1","1","Kierujący","1977-03-16","Mężczyzna","Nie posiada","Alkoholu",NA,NA,NA,NA
+96909554,"2","1","Kierujący","1966-10-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny ciężko"
+96910583,"1","1","Kierujący","1959-01-22","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+96910583,"2","1","Kierujący","1976-05-15","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96912866,"1","1","Kierujący","1976-06-24","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96912866,"2","1","Kierujący","1978-12-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96915538,"1","1","Kierujący","1953-08-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96915538,"2","1","Kierujący","1989-07-09","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96917437,"1","1","Kierujący","1969-04-02","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+96917437,"2","1","Kierujący","1988-05-27","Mężczyzna","Nie wymagane","Alkoholu",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie",NA
+96919445,"1","1","Kierujący","1940-05-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96919445,"2","1","Kierujący","1948-09-22","Mężczyzna","Posiada","Trzeźwy","38","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96919493,"1","1","Kierujący","1984-07-07","Kobieta","Posiada","Trzeźwy","10",NA,NA,"Ranny lekko"
+96919493,"2","1","Kierujący","1979-03-28","Kobieta","Posiada","Trzeźwy","7","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96921769,"1","1","Kierujący","1992-03-05","Mężczyzna","Posiada","Trzeźwy","1",NA,NA,NA
+96921769,"2","1","Kierujący","1968-01-25","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96924909,"1","1","Kierujący","1983-03-28","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96924909,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96924940,"1","1","Kierujący","1996-01-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96924940,"2","1","Kierujący","1957-07-24","Mężczyzna","Posiada","Trzeźwy","1","Wjazd przy czerwonym świetle","Wniosek o ukaranie",NA
+96944242,"1","1","Kierujący","1982-11-10","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96944242,"2","1","Kierujący","1974-08-08","Mężczyzna","Posiada","Trzeźwy","4","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96944741,"1","1","Kierujący","1959-03-28","Mężczyzna","Posiada","Trzeźwy","34","Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+96944741,"2","1","Kierujący","1984-07-23","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96944894,"1","1","Kierujący","1974-10-30","Mężczyzna","Posiada","Trzeźwy","17",NA,NA,NA
+96944894,"2","1","Kierujący","2007-10-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny",NA
+96945527,"1","1","Kierujący","1995-09-14","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96945527,"2","1","Kierujący","1987-10-31","Mężczyzna","Posiada","Trzeźwy","5",NA,NA,NA
+96946408,"1","1","Kierujący","1966-06-26","Kobieta","Posiada","Trzeźwy","35",NA,NA,NA
+96946408,"2","1","Kierujący","1958-09-25","Mężczyzna","Posiada","Trzeźwy","30","Nieprawidłowe: skręcanie","Mandat karny",NA
+96949463,"1","1","Kierujący","1992-04-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96949463,"2","1","Kierujący","1986-01-24","Mężczyzna","Posiada","Trzeźwy","7","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96951485,"1","1","Kierujący","1975-08-24","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,NA
+96951485,"2","1","Kierujący","2003-12-30","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,"Ranny lekko"
+96952685,"1","1","Kierujący","1974-03-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96952685,"2","1","Kierujący","1983-04-19","Kobieta","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96953509,"1","1","Kierujący","1978-09-17","Mężczyzna","Posiada","Trzeźwy","7",NA,NA,NA
+96953509,"2","1","Kierujący","1943-10-09","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: skręcanie","Dochodzenie",NA
+96959521,"1","1","Kierujący","1971-12-12","Kobieta","Posiada","Trzeźwy","1",NA,NA,NA
+96959521,"2","1","Kierujący","1995-11-21","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96959526,"1","1","Kierujący","1972-05-25","Kobieta","Posiada","Trzeźwy","7",NA,NA,NA
+96959526,"2","1","Kierujący","1940-07-09","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: wymijanie","Wniosek o ukaranie",NA
+96959590,"1","1","Kierujący","1947-12-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96959595,"1","1","Kierujący","2004-06-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96959595,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,"Dochodzenie",NA
+96959806,"1","1","Kierujący","1963-09-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96959806,"2","1","Kierujący","1944-04-01","Mężczyzna","Posiada","Trzeźwy","28","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96959900,"1","1","Kierujący","1986-02-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96959900,"2","1","Kierujący","1974-12-28","Mężczyzna","Posiada","Trzeźwy","5","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96959983,"1","1","Kierujący","1974-05-29","Kobieta","Posiada","Trzeźwy","10",NA,NA,NA
+96959983,"2","1","Kierujący","1990-07-06","Mężczyzna","Posiada","Trzeźwy","3",NA,"Mandat karny",NA
+96960132,"1","1","Kierujący","1984-05-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96960132,"2","1","Kierujący","1963-12-26","Mężczyzna","Posiada","Trzeźwy","28","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96960199,"1","1","Kierujący","1984-10-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96960199,"2","1","Kierujący","1945-04-02","Mężczyzna","Posiada","Trzeźwy","37","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96977665,"1","1","Kierujący","1952-07-05","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+96977665,"2","1","Kierujący","1972-02-18","Kobieta","Nie wymagane","Trzeźwy",NA,"Wjazd przy czerwonym świetle","Dochodzenie","Ranny lekko"
+96977718,"1","1","Kierujący","1984-07-10","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96977718,"2","1","Kierujący","1983-11-01","Kobieta","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96978011,"1","1","Kierujący","1929-11-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96978011,"2","1","Kierujący","1976-12-27","Mężczyzna","Posiada","Trzeźwy","16","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96978071,"1","1","Kierujący","1979-12-20","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96978071,"2","1","Kierujący","1979-05-09","Mężczyzna","Posiada","Trzeźwy","6","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96978211,"1","1","Kierujący","1988-01-26","Mężczyzna","Nie posiada","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Wniosek o ukaranie",NA
+96978211,"2","1","Kierujący","1961-05-03","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96978838,"1","1","Kierujący","1958-02-09","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,NA
+96978838,"2","1","Kierujący","1947-09-12","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96978884,"1","1","Kierujący","1953-05-03","Kobieta","Posiada","Trzeźwy","28",NA,NA,NA
+96978884,"2","1","Kierujący","1989-03-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+96979847,"1","1","Kierujący","1951-07-31","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96979847,"2","1","Kierujący","1990-01-30","Mężczyzna","Posiada","Trzeźwy","4","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96980205,"1","1","Kierujący","1947-01-23","Mężczyzna","Posiada","Trzeźwy","49","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96980205,"2","1","Kierujący","1975-08-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96981611,"1","1","Kierujący","2001-07-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96981611,"2","1","Kierujący","1975-12-22","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96982863,"1","1","Kierujący","1981-11-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96982863,"2","1","Kierujący","1983-06-16","Kobieta","Posiada","Trzeźwy","4","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Mandat karny",NA
+96983111,"1","1","Kierujący","1945-08-06","Mężczyzna","Posiada","Trzeźwy","22",NA,NA,NA
+96983111,"2","1","Kierujący","1951-01-19","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie","Ranny lekko"
+96983113,"1","1","Kierujący","1963-05-26","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96983113,"2","1","Kierujący","1977-10-07","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96983116,"1","1","Kierujący","1982-05-08","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96983116,"2","1","Kierujący","1959-02-20","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+96983142,"1","1","Kierujący","1975-10-20","Mężczyzna","Posiada","Trzeźwy","18",NA,NA,NA
+96983142,"2","1","Kierujący","1993-06-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96983485,"1","1","Kierujący","1933-04-28","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96983485,"2","1","Kierujący","1989-05-12","Mężczyzna","Posiada","Trzeźwy","5","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96987518,"1","1","Kierujący","1990-03-07","Mężczyzna","Posiada","Trzeźwy","1",NA,NA,NA
+96987518,"2","1","Kierujący","1993-10-29","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+96992580,"1","1","Kierujący","1952-06-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96992580,"2","1","Kierujący","1959-12-03","Mężczyzna","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+96992826,"1","1","Kierujący","1994-11-17","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+96992826,"2","1","Kierujący","1983-06-04","Mężczyzna","Posiada","Trzeźwy","12",NA,NA,NA
+96993047,"1","1","Kierujący","1971-08-07","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96993047,"2","1","Kierujący","2000-06-11","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+96993166,"1","1","Kierujący","1980-06-05","Kobieta","Posiada","Trzeźwy","9",NA,NA,NA
+96993166,"2","1","Kierujący","1999-12-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+96994341,"1","1","Kierujący","1943-07-12","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+96994341,"2","1","Kierujący","1991-12-10","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96994446,"1","1","Kierujący","1959-11-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96994446,"2","1","Kierujący","1967-07-28","Mężczyzna","Posiada","Trzeźwy","12","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+96994464,"1","1","Kierujący","1974-03-13","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+96994464,"2","1","Kierujący","1956-07-05","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+96995449,"1","1","Kierujący","1987-05-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+96995449,"2","1","Kierujący","1977-04-06","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+96999109,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,NA,NA
+96999109,"2","1","Kierujący","1970-06-30","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny","Ranny lekko"
+97000588,"1","1","Kierujący","1977-07-11","Mężczyzna","Posiada","Trzeźwy","15",NA,NA,NA
+97000588,"2","1","Kierujący","1967-01-13","Kobieta","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Ranny lekko"
+97000709,"1","1","Kierujący","1956-10-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Pouczenie","Ranny lekko"
+97002602,"1","1","Kierujący","1951-03-31","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97002602,"2","1","Kierujący","1982-06-06","Mężczyzna","Posiada","Trzeźwy","13","Niedostosowanie prędkości do warunków ruchu","Mandat karny",NA
+97002632,"1","1","Kierujący","1961-08-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97002632,"2","1","Kierujący","1991-06-25","Mężczyzna","Posiada","Trzeźwy","2","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97003432,"1","1","Kierujący","1976-10-07","Mężczyzna","Posiada","Trzeźwy","18",NA,NA,"Ranny lekko"
+97003432,"2","1","Kierujący","1968-06-15","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97003550,"1","1","Kierujący","1947-05-03","Mężczyzna","Posiada","Trzeźwy","23",NA,NA,NA
+97003550,"2","1","Kierujący","2000-02-07","Kobieta","Posiada","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+97006570,"1","1","Kierujący","1980-09-03","Kobieta","Posiada","Trzeźwy","12",NA,NA,NA
+97006570,"2","1","Kierujący","1949-05-04","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+97007944,"1","1","Kierujący","1993-02-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny",NA
+97007944,"2","1","Kierujący","1989-12-10","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+97008455,"1","1","Kierujący","1950-01-11","Mężczyzna","Posiada","Trzeźwy","37",NA,NA,NA
+97008455,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie",NA
+97008467,"1","1","Kierujący","1952-02-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97008467,"2","1","Kierujący","1985-08-06","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97009378,"1","1","Kierujący","1991-11-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Pouczenie",NA
+97009378,"2","1","Kierujący","1985-04-17","Kobieta","Posiada","Trzeźwy","10",NA,NA,NA
+97009414,"2","1","Kierujący","1998-12-17","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97009414,"2","2","Kierujący","1992-09-04","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97018860,"1","1","Kierujący","1970-09-23","Mężczyzna","Posiada","Trzeźwy","16",NA,NA,NA
+97018860,"2","1","Kierujący","1971-07-05","Mężczyzna","Nie wymagane","Alkoholu",NA,"Wjazd przy czerwonym świetle","Dochodzenie","Ranny lekko"
+97020661,"1","1","Kierujący","1963-07-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97020661,"2","1","Kierujący","1957-07-12","Mężczyzna","Posiada","Trzeźwy","36","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97021104,"1","1","Kierujący","1980-12-08","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+97021104,"2","1","Kierujący","1979-10-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97021104,"3","1","Kierujący","1957-01-30","Kobieta","Posiada","Trzeźwy","16","Niedostosowanie prędkości do warunków ruchu","Wniosek o ukaranie",NA
+97021169,"1","1","Kierujący","1963-03-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+97021285,"1","1","Kierujący","1990-07-26","Mężczyzna","Posiada","Trzeźwy","5",NA,NA,NA
+97021285,"2","1","Kierujący","1946-07-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny",NA
+97021534,"1","1","Kierujący","1983-03-27","Kobieta","Posiada","Trzeźwy","7",NA,NA,NA
+97021534,"2","1","Kierujący","1961-09-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+97022914,"1","1","Kierujący","1986-12-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Inny organ",NA
+97023501,"1","1","Kierujący","1965-12-25","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,NA
+97023501,"2","1","Kierujący","1999-06-23","Kobieta","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97028438,"1","1","Kierujący","1940-04-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie",NA
+97028438,"2","1","Kierujący","1953-02-23","Mężczyzna","Posiada","Trzeźwy","40","Nieprawidłowe: wyprzedzanie","Dochodzenie","Ranny lekko"
+97028478,"1","1","Kierujący","1959-04-30","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97028478,"2","1","Kierujący","1992-05-16","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97028728,"1","1","Kierujący","1932-10-10","Mężczyzna","Posiada","Trzeźwy","18",NA,NA,NA
+97028728,"2","1","Kierujący","1939-01-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97028783,"1","1","Kierujący","1957-02-09","Mężczyzna","Posiada","Trzeźwy","35","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97028783,"2","1","Kierujący","1962-06-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda bez wymaganego oświetlenia","Dochodzenie","Ranny ciężko"
+97029290,"1","1","Kierujący","1987-05-09","Kobieta","Posiada","Trzeźwy","7",NA,NA,NA
+97029290,"2","1","Kierujący","1987-09-04","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97029342,"1","1","Kierujący","1975-09-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97029342,"2","1","Kierujący","1976-11-25","Kobieta","Posiada","Trzeźwy","16","Nieudzielenie pierwszeństwa przejazdu",NA,NA
+97029577,"2","1","Kierujący","1987-09-30","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97029577,"2","2","Kierujący","1994-03-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny",NA
+97029726,"1","1","Kierujący","1979-04-08","Mężczyzna","Posiada","Trzeźwy","15",NA,NA,NA
+97029726,"2","1","Kierujący","1957-05-22","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprzestrzeganie innych sygnałów","Pouczenie",NA
+97033448,"1","1","Kierujący","1990-10-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97033448,"2","1","Kierujący","1980-06-06","Kobieta","Posiada","Trzeźwy","12","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97034453,"1","1","Kierujący","1992-07-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Mandat karny",NA
+97034477,"1","1","Kierujący","1975-05-20","Mężczyzna","Posiada","Trzeźwy","1",NA,NA,NA
+97034477,"2","1","Kierujący","1981-09-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Mandat karny",NA
+97034511,"1","1","Kierujący","1947-02-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97034511,"2","1","Kierujący","1983-12-29","Mężczyzna","Posiada","Trzeźwy","6","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Mandat karny",NA
+97036458,"1","1","Kierujący","1965-12-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97036458,"2","1","Kierujący","1978-03-18","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: wyprzedzanie","Wniosek o ukaranie",NA
+97036458,"3","1","Kierujący","1946-03-10","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,NA
+97036502,"1","1","Kierujący","1980-02-12","Mężczyzna","Posiada","Trzeźwy","15",NA,NA,NA
+97036502,"2","1","Kierujący","1955-12-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Wniosek o ukaranie",NA
+97036513,"1","1","Kierujący","1988-05-28","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97036513,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,"Dochodzenie",NA
+97037856,"1","1","Kierujący","1972-01-25","Mężczyzna","Posiada","Trzeźwy","23","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97037856,"2","1","Kierujący","1958-02-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97046685,"1","1","Kierujący","1938-06-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97046685,"2","1","Kierujący","1977-05-29","Kobieta","Posiada","Trzeźwy","13","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97046780,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+97046803,"1","1","Kierujący","1962-12-05","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97046803,"2","1","Kierujący","1966-07-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97046808,"1","1","Kierujący","1941-03-15","Mężczyzna","Posiada","Trzeźwy","51",NA,NA,NA
+97046808,"2","1","Kierujący","2005-09-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97049454,"1","1","Kierujący","1980-05-17","Mężczyzna","Posiada","Trzeźwy","3","Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+97049454,"2","1","Kierujący","1988-03-01","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie","Ranny lekko"
+97049536,"1","1","Kierujący","1972-07-03","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97051285,"1","1","Kierujący","1993-03-03","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97051285,"2","1","Kierujący","1998-07-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: zmienianie pasa ruchu","Dochodzenie","Ranny lekko"
+97051595,"1","1","Kierujący","1989-01-07","Kobieta","Posiada","Trzeźwy","1",NA,NA,NA
+97051595,"2","1","Kierujący","1996-11-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie","Ranny ciężko"
+97051766,"1","1","Kierujący","1953-07-14","Kobieta","Nie wymagane","Alkoholu",NA,NA,"Dochodzenie",NA
+97052333,"1","1","Kierujący","1989-06-09","Mężczyzna","Posiada","Trzeźwy","1",NA,NA,NA
+97052333,"2","1","Kierujący","1988-01-18","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97056429,"1","1","Kierujący","1961-11-20","Mężczyzna","Posiada","Trzeźwy","36","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+97056429,"2","1","Kierujący","1992-05-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+97056446,"1","1","Kierujący","1938-01-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97056446,"2","1","Kierujący","1985-11-16","Mężczyzna","Posiada","Trzeźwy","4","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97058339,"1","1","Kierujący","1998-08-25","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97058339,"2","1","Kierujący","1970-06-08","Mężczyzna","Posiada","Trzeźwy","21","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+97059483,"1","1","Kierujący","1962-10-31","Kobieta","Posiada","Trzeźwy","23",NA,NA,NA
+97059483,"2","1","Kierujący","1973-11-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+97059566,"1","1","Kierujący","1993-06-07","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97059566,"2","1","Kierujący","1990-01-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny ciężko"
+97061549,"2","1","Kierujący","1966-04-03","Mężczyzna","Posiada","Trzeźwy","11","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+97062556,"1","1","Kierujący","1949-01-11","Mężczyzna","Posiada","Trzeźwy","17",NA,NA,NA
+97062556,"2","1","Kierujący","1976-10-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Mandat karny","Ranny lekko"
+97062903,"1","1","Pasażer","2010-02-06","Mężczyzna",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+97062903,"1","2","Kierujący","1985-02-20","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97062903,"2","1","Kierujący","1968-12-31","Kobieta","Posiada","Trzeźwy","11","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97063971,"1","1","Kierujący","1968-01-16","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+97063971,"2","1","Kierujący","1991-11-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Wjazd przy czerwonym świetle","Mandat karny",NA
+97064186,"1","1","Kierujący","1964-09-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97064186,"2","1","Kierujący","1981-10-21","Kobieta","Posiada","Trzeźwy","7","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97069567,"1","1","Kierujący","1988-12-30","Mężczyzna","Posiada","Trzeźwy","4","Nieprawidłowe: skręcanie","Dochodzenie",NA
+97069567,"2","1","Kierujący","1941-01-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97071519,"1","1","Kierujący","1963-08-14","Kobieta","Posiada","Trzeźwy","32","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97071519,"2","1","Kierujący","1975-05-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97071997,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie",NA
+97078441,"1","1","Kierujący","1987-01-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97078441,"2","1","Kierujący","1995-12-15","Mężczyzna","Posiada","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97080261,"1","1","Kierujący","1983-02-24","Kobieta","Posiada","Trzeźwy","11",NA,NA,NA
+97080261,"2","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieprawidłowe: omijanie",NA,NA
+97082973,"1","1","Kierujący","1976-08-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97082973,"2","1","Kierujący","1977-01-05","Mężczyzna","Posiada","Trzeźwy","16","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97083123,"1","1","Kierujący","1958-12-26","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97083123,"2","1","Kierujący","1989-10-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97085446,"1","1","Kierujący","1988-10-02","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+97085446,"2","1","Kierujący","1929-08-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Smierć na miejscu"
+97088050,"1","1","Kierujący","1981-11-28","Kobieta","Posiada","Trzeźwy","13",NA,NA,NA
+97088050,"2","1","Kierujący","1946-12-08","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97092653,"1","1","Kierujący","1983-12-13","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97092653,"2","1","Kierujący","1977-08-15","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97092802,"1","1","Kierujący","1955-04-27","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97092802,"2","1","Kierujący","1952-04-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97093208,"1","1","Kierujący","1981-02-12","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97093208,"2","1","Kierujący","1975-01-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+97093295,"1","1","Kierujący","1968-01-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97093295,"2","1","Kierujący","1991-08-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97093417,"1","1","Kierujący","1980-06-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97093417,"2","1","Kierujący","1975-12-08","Kobieta","Posiada","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Wniosek o ukaranie",NA
+97099900,"1","1","Kierujący","1978-06-16","Kobieta","Posiada","Trzeźwy","15",NA,NA,NA
+97099900,"2","1","Kierujący","1964-04-30","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+97100728,"2","1","Kierujący","1981-11-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97100728,"2","2","Kierujący","1926-01-28","Mężczyzna","Posiada","Trzeźwy","30","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97101143,"1","1","Kierujący","1984-01-19","Kobieta","Posiada","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Dochodzenie",NA
+97101143,"2","1","Kierujący","1983-05-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97103678,"1","1","Kierujący","1995-12-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97103678,"2","1","Kierujący","1985-04-14","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97103738,"1","1","Kierujący","1967-04-12","Mężczyzna","Posiada","Trzeźwy","25",NA,NA,NA
+97103738,"2","1","Kierujący","1949-02-27","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: skręcanie","Wniosek o ukaranie","Ranny lekko"
+97105586,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+97105608,"1","1","Kierujący","1976-11-16","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+97105608,"2","1","Kierujący","1997-05-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ",NA
+97106025,"1","1","Kierujący","1937-03-22","Mężczyzna","Posiada","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+97106025,"2","1","Kierujący","1969-02-23","Kobieta","Posiada","Trzeźwy","15",NA,NA,NA
+97106191,"1","1","Kierujący","1992-10-19","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+97106191,"2","1","Kierujący","1989-06-04","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,"Dochodzenie",NA
+97106225,"1","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny",NA
+97106225,"2","1","Kierujący","2000-03-18","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97106290,"1","1","Kierujący","1991-05-30","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+97106290,"2","1","Kierujący","1993-01-30","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Mandat karny",NA
+97107638,"1","1","Kierujący","1953-06-03","Mężczyzna","Posiada","Trzeźwy","39",NA,NA,NA
+97107638,"2","1","Kierujący","1995-06-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97107657,"1","1","Kierujący","1998-11-01","Mężczyzna","Posiada","Trzeźwy","1",NA,NA,"Ranny lekko"
+97107657,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97107693,"1","1","Kierujący","1980-05-05","Mężczyzna","Posiada","Trzeźwy","10",NA,NA,"Ranny lekko"
+97107693,"2","1","Kierujący","1928-07-03","Mężczyzna","Posiada","Trzeźwy","32","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97108345,"1","1","Kierujący","1953-02-15","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97108345,"2","1","Kierujący","1968-01-17","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97109494,"1","1","Kierujący","2002-01-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Dochodzenie","Ranny lekko"
+97109494,"2","1","Kierujący","1992-07-31","Kobieta","Posiada","Trzeźwy","2",NA,NA,NA
+97112765,"1","1","Kierujący","1964-09-10","Mężczyzna","Posiada","Trzeźwy","30","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97112765,"2","1","Kierujący","1988-10-01","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97112849,"1","1","Kierujący","1956-01-17","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97112849,"2","1","Kierujący","1993-06-28","Mężczyzna","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97113669,"1","1","Kierujący","1945-08-24","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97113669,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97114197,"1","1","Kierujący","1979-11-13","Kobieta","Posiada","Trzeźwy","9",NA,NA,NA
+97114197,"2","1","Kierujący","1969-12-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+97114343,"1","1","Kierujący","1962-07-03","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97114343,"2","1","Pasażer","1986-08-05","Kobieta",NA,"Trzeźwy",NA,NA,NA,"Ranny lekko"
+97114343,"2","2","Kierujący","1985-07-16","Mężczyzna","Posiada","Trzeźwy","12",NA,NA,NA
+97117704,"1","1","Kierujący","1969-05-11","Mężczyzna","Posiada","Trzeźwy","1","Nieprawidłowe: wyprzedzanie","Wniosek o ukaranie",NA
+97117704,"2","1","Kierujący","1955-04-05","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97118034,"1","1","Kierujący","1972-05-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97118034,"2","1","Kierujący","1961-09-01","Mężczyzna","Posiada","Trzeźwy","11","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97118085,"1","1","Kierujący","1996-11-18","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,NA
+97118085,"2","1","Kierujący","1966-09-28","Mężczyzna","Posiada","Trzeźwy","23",NA,"Wniosek o ukaranie",NA
+97118088,"1","1","Kierujący","1990-09-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97118088,"2","1","Kierujący","1966-12-10","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Pouczenie",NA
+97118402,"1","1","Kierujący","1953-01-01","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97118402,"2","1","Kierujący","1997-09-20","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97118434,"1","1","Kierujący","1994-02-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+97118489,"1","1","Kierujący","1960-03-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97118489,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,"Dochodzenie",NA
+97118696,"1","1","Kierujący","1984-09-20","Mężczyzna","Posiada","Trzeźwy","10",NA,NA,NA
+97118696,"2","1","Kierujący","1952-01-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Mandat karny","Ranny lekko"
+97119436,"1","1","Kierujący","1976-03-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97119436,"2","1","Kierujący","1955-03-27","Kobieta","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97119789,"1","1","Kierujący","2001-05-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Wniosek o ukaranie",NA
+97121466,"1","1","Kierujący","1989-04-19","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97121466,"2","1","Kierujący","1974-02-24","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97122431,"1","1","Kierujący","1976-04-05","Mężczyzna","Posiada","Trzeźwy","14",NA,NA,NA
+97122431,"2","1","Kierujący","1985-01-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+97122623,"1","1","Kierujący","1972-04-13","Kobieta","Posiada","Trzeźwy","14",NA,NA,NA
+97122623,"2","1","Kierujący","1991-10-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97126835,"1","1","Kierujący","1975-08-01","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,NA,"Ranny lekko"
+97126835,"2","1","Kierujący","1991-05-13","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97128508,"1","1","Kierujący","1965-02-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97128508,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97131270,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,NA,NA
+97131270,"2","1","Kierujący","1974-06-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Wniosek o ukaranie","Ranny ciężko"
+97134619,"1","1","Kierujący","1980-03-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97134619,"2","1","Kierujący","1986-09-28","Mężczyzna","Posiada","Trzeźwy","8",NA,NA,NA
+97146581,"1","1","Kierujący","1965-03-05","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97146581,"2","1","Kierujący","1964-02-06","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97148412,"1","1","Kierujący","1968-03-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97148412,"2","1","Kierujący","1972-09-22","Mężczyzna","Posiada","Alkoholu",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Ranny lekko"
+97148646,"1","1","Kierujący","1957-04-15","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+97148646,"2","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,NA
+97149487,"1","1","Kierujący","1984-04-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97149487,"2","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Dochodzenie","Ranny lekko"
+97152820,"1","1","Kierujący","1952-09-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Wniosek o ukaranie",NA
+97153393,"1","1","Kierujący","1974-07-11","Kobieta","Posiada","Trzeźwy","21",NA,NA,NA
+97153393,"2","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+97153402,"1","1","Kierujący","1992-04-11","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97153402,"2","1","Kierujący","1986-03-26","Kobieta","Posiada","Trzeźwy","7","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Mandat karny",NA
+97155531,"1","1","Kierujący","1974-01-21","Mężczyzna","Posiada","Trzeźwy","7",NA,NA,NA
+97155531,"2","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Smierć na miejscu"
+97161783,"1","1","Kierujący","1991-08-02","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+97161783,"2","1","Kierujący","1991-11-12","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+97161803,"1","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97161803,"2","1","Kierujący","1984-11-07","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97162729,"1","1","Kierujący","1943-01-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97162729,"2","1","Kierujący","1980-04-01","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+97162776,"1","1","Kierujący","1988-10-27","Mężczyzna","Posiada","Trzeźwy","5",NA,NA,NA
+97162776,"2","1","Kierujący","1940-03-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie","Ranny ciężko"
+97162798,"1","1","Kierujący","1950-12-02","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97162798,"2","1","Kierujący","1955-11-30","Kobieta","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97162939,"1","1","Kierujący","1993-07-05","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97162939,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97163594,"1","1","Kierujący","1992-05-18","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+97163594,"2","1","Kierujący","2006-08-08","Kobieta","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,"Ranny lekko"
+97163620,"1","1","Kierujący","1962-02-27","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97163620,"2","1","Kierujący","1970-05-18","Kobieta","Posiada","Trzeźwy","18","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97173681,"1","1","Kierujący","1957-01-16","Mężczyzna","Posiada","Trzeźwy","36",NA,NA,NA
+97173681,"2","1","Kierujący","2001-08-21","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97173804,"1","1","Kierujący","1977-10-05","Mężczyzna","Posiada","Trzeźwy","18",NA,NA,NA
+97173804,"2","1","Kierujący","1972-04-11","Mężczyzna","Posiada","Trzeźwy","4","Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+97178661,"1","1","Kierujący","1994-05-24","Kobieta","Posiada","Trzeźwy",NA,"Nieprawidłowe: omijanie","Wniosek o ukaranie",NA
+97178691,"1","1","Kierujący","1957-03-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie","Ranny ciężko"
+97178691,"2","1","Kierujący","1972-08-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie","Ranny lekko"
+97179701,"1","1","Kierujący","1957-11-30","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97179701,"2","1","Kierujący","1990-12-19","Mężczyzna","Posiada","Trzeźwy","3",NA,"Mandat karny",NA
+97180424,"1","1","Kierujący","1949-02-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+97180742,"1","1","Kierujący","1971-08-17","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97180742,"2","1","Kierujący","1952-07-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Pouczenie",NA
+97183197,"1","1","Kierujący","1984-01-29","Mężczyzna","Posiada","Trzeźwy","11",NA,NA,NA
+97183197,"2","1","Kierujący","1982-05-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Mandat karny",NA
+97183339,"1","1","Kierujący","1964-05-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Pouczenie","Ranny lekko"
+97183350,"1","1","Kierujący","1967-05-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97183350,"2","1","Kierujący","1977-02-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie",NA,NA
+97183374,"1","1","Kierujący","1987-08-20","Mężczyzna","Posiada","Trzeźwy","7",NA,NA,NA
+97183374,"2","1","Kierujący","2006-07-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Ranny lekko"
+97184518,"1","1","Kierujący","1973-03-12","Kobieta","Posiada","Trzeźwy","22","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97184518,"2","1","Kierujący","1952-05-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97185105,"1","1","Kierujący","1979-08-29","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97185105,"2","1","Kierujący","1939-03-23","Mężczyzna","Posiada","Trzeźwy","42","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97185258,"1","1","Kierujący","1990-02-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97185258,"2","1","Kierujący","1984-06-03","Kobieta","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97185268,"1","1","Kierujący","1984-08-24","Kobieta","Posiada","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97185268,"2","1","Kierujący","1965-10-02","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97185624,"1","1","Kierujący","1970-12-20","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+97185624,"2","1","Kierujący","2001-07-12","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97186141,"1","1","Kierujący","1952-07-20","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Wniosek o ukaranie","Ranny lekko"
+97186141,"2","1","Kierujący","1975-01-31","Mężczyzna","Posiada","Trzeźwy","19",NA,NA,NA
+97186174,"1","1","Kierujący","1967-10-16","Mężczyzna","Posiada","Trzeźwy","27",NA,NA,NA
+97186174,"2","1","Kierujący","1936-02-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Wniosek o ukaranie","Ranny lekko"
+97186331,"1","1","Kierujący","1927-01-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97186331,"2","1","Kierujący","1981-04-01","Kobieta","Posiada","Trzeźwy","5","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97188862,"1","1","Kierujący","1943-10-15","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97188862,"2","1","Kierujący","1996-05-21","Mężczyzna","Nie posiada","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie",NA
+97189249,"1","1","Kierujący","1966-07-31","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97189249,"2","1","Kierujący","1979-06-27","Mężczyzna","Posiada","Trzeźwy","15","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97190507,"1","1","Kierujący","1950-08-18","Mężczyzna","Posiada","Trzeźwy","34",NA,NA,NA
+97190507,"2","1","Kierujący","1993-09-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny",NA
+97192776,"1","1","Kierujący","1985-11-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+97198054,"1","1","Kierujący","1986-02-20","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97198054,"2","1","Kierujący","1955-03-04","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97199572,"1","1","Kierujący","1953-02-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97199572,"2","1","Kierujący","Nieustalona","Kobieta",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,NA
+97199883,"1","1","Kierujący","1979-04-10","Kobieta","Posiada","Trzeźwy","16",NA,NA,NA
+97199883,"2","1","Kierujący","1957-01-21","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+97200275,"1","1","Kierujący","1986-07-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97200275,"2","1","Kierujący","1985-06-25","Kobieta","Posiada","Trzeźwy","9","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97208622,"1","1","Kierujący","1984-05-09","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,NA
+97208622,"2","1","Kierujący","1958-02-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+97216564,"1","1","Kierujący","1988-04-14","Mężczyzna","Posiada","Trzeźwy","6",NA,NA,NA
+97216564,"2","1","Kierujący","1988-04-02","Kobieta","Posiada","Trzeźwy","6","Niezachowanie bezp. odl. między pojazdami","Pouczenie",NA
+97216671,"1","1","Kierujący","1983-07-25","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97216671,"2","1","Kierujący","1947-03-23","Mężczyzna","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97217221,"1","1","Kierujący","1960-08-17","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97217221,"2","1","Kierujący","1968-01-12","Kobieta","Posiada","Trzeźwy","27","Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Mandat karny",NA
+97217284,"1","1","Kierujący","1990-11-27","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97217284,"2","1","Kierujący","1959-04-20","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97217355,"1","1","Kierujący","1956-11-27","Kobieta","Posiada","Trzeźwy","32",NA,NA,NA
+97217355,"2","1","Kierujący","1997-11-05","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Pouczenie",NA
+97221157,"1","1","Kierujący","1984-08-26","Mężczyzna","Posiada","Trzeźwy","10",NA,NA,NA
+97221157,"2","1","Kierujący","1936-01-24","Kobieta","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Wniosek o ukaranie",NA
+97221251,"1","1","Kierujący","1975-07-26","Mężczyzna","Posiada","Trzeźwy","20",NA,NA,"Ranny lekko"
+97221251,"2","1","Kierujący","1971-10-11","Mężczyzna","Posiada","Trzeźwy","21","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97222367,"1","1","Kierujący","1971-01-28","Mężczyzna","Posiada","Trzeźwy","14",NA,NA,NA
+97222367,"2","1","Kierujący","1966-01-06","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Mandat karny",NA
+97222924,"1","1","Kierujący","1970-10-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97222924,"2","1","Kierujący","1980-03-11","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97223023,"1","1","Kierujący","1985-10-01","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97223023,"2","1","Kierujący","1962-10-24","Mężczyzna","Nie posiada","Alkoholu",NA,"Nieprawidłowe: wymijanie","Wniosek o ukaranie",NA
+97223783,"1","1","Kierujący","1954-05-30","Mężczyzna","Posiada","Trzeźwy","39",NA,NA,NA
+97223783,"2","1","Kierujący","1994-08-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+97225586,"1","1","Kierujący","1950-12-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97225586,"2","1","Kierujący","1957-07-21","Mężczyzna","Posiada","Trzeźwy",NA,NA,"Dochodzenie",NA
+97226877,"1","1","Kierujący","Nieustalona","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: wymijanie","Wniosek o ukaranie",NA
+97227138,"1","1","Kierujący","1979-01-02","Mężczyzna","Posiada","Trzeźwy","7","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97227138,"2","1","Kierujący","1972-12-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97234598,"1","1","Kierujący","1941-09-29","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97234598,"2","1","Kierujący","Nieustalona","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+97239005,"1","1","Kierujący","2001-08-11","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Inny organ","Ranny lekko"
+97239005,"2","1","Kierujący","1981-05-11","Mężczyzna","Posiada","Trzeźwy","14",NA,NA,NA
+97239785,"1","1","Kierujący","1947-12-22","Mężczyzna","Nie wymagane","Alkoholu",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Śmierć w ciągu 30 dni"
+97239785,"2","1","Kierujący","1985-10-30","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,NA
+97245606,"1","1","Kierujący","1974-11-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97245606,"2","1","Kierujący","1972-05-22","Mężczyzna","Posiada","Trzeźwy","20","Nieprawidłowe: skręcanie","Wniosek o ukaranie",NA
+97245734,"1","1","Kierujący","1944-04-13","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97245734,"2","1","Kierujący","1989-01-04","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97246088,"1","1","Kierujący","1979-09-04","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97246088,"2","1","Kierujący","1959-02-28","Mężczyzna","Posiada","Trzeźwy","30","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97246096,"1","1","Kierujący","1987-10-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97246096,"2","1","Kierujący","1978-12-07","Mężczyzna","Posiada","Trzeźwy","14","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97246122,"2","1","Kierujący","1935-11-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97246122,"2","2","Kierujący","1951-03-31","Mężczyzna","Posiada","Trzeźwy","34","Niedostosowanie prędkości do warunków ruchu","Mandat karny",NA
+97246137,"1","1","Kierujący","2003-05-11","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97246137,"2","1","Kierujący","1955-12-02","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97246232,"1","1","Kierujący","1953-02-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97246232,"2","1","Kierujący","1953-02-21","Mężczyzna","Posiada","Trzeźwy","41","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97246586,"1","1","Kierujący","1960-02-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97246586,"2","1","Kierujący","1988-08-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97246586,"3","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieprawidłowe: wymijanie","Dochodzenie",NA
+97247388,"1","1","Kierujący","1945-08-16","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97247388,"2","1","Kierujący","1941-07-08","Mężczyzna","Posiada","Trzeźwy","12","Jazda po niewłaściwej stronie drogi","Dochodzenie",NA
+97248103,"1","1","Kierujący","1984-07-30","Mężczyzna","Posiada","Trzeźwy","11",NA,"Dochodzenie",NA
+97248103,"2","1","Kierujący","1984-05-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97248168,"1","1","Kierujący","1987-01-14","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+97248168,"2","1","Kierujący","2001-02-15","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Inny organ",NA
+97248365,"1","1","Kierujący","1973-07-02","Kobieta","Posiada","Trzeźwy","7",NA,NA,NA
+97248365,"2","1","Kierujący","2006-05-10","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: omijanie","Inny organ",NA
+97250699,"1","1","Kierujący","1984-04-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97250699,"2","1","Kierujący","1968-07-10","Mężczyzna","Posiada","Trzeźwy","27","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97253935,"1","1","Kierujący","1972-02-23","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97253935,"2","1","Kierujący","1951-01-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Dochodzenie","Ranny lekko"
+97255496,"1","1","Kierujący","1939-01-03","Mężczyzna","Posiada","Trzeźwy","54",NA,NA,NA
+97255496,"2","1","Kierujący","1999-09-04","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97255553,"1","1","Kierujący","1943-05-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97255553,"2","1","Kierujący","1962-07-14","Mężczyzna","Posiada","Trzeźwy","28",NA,NA,NA
+97257641,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,NA,NA,NA
+97257641,"2","1","Kierujący","1971-08-26","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97257684,"1","1","Kierujący","1963-02-23","Kobieta","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie","Ranny lekko"
+97257727,"1","1","Kierujący","1986-03-09","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97257727,"2","1","Kierujący","1998-08-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie",NA
+97258141,"1","1","Kierujący","1964-07-15","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,NA
+97258141,"2","1","Kierujący","1967-11-08","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97261817,"1","1","Kierujący","1983-05-05","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97261817,"2","1","Kierujący","1958-06-15","Kobieta","Posiada","Trzeźwy","37","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97261850,"1","1","Kierujący","1989-11-04","Kobieta","Posiada","Alkoholu",NA,"Jazda bez wymaganego oświetlenia","Dochodzenie","Ranny lekko"
+97261850,"2","1","Kierujący","1969-12-16","Mężczyzna","Posiada","Trzeźwy","7",NA,NA,NA
+97261850,"3","1","Kierujący","1972-04-30","Mężczyzna","Nie wymagane","Alkoholu",NA,"Jazda bez wymaganego oświetlenia","Dochodzenie","Ranny lekko"
+97262507,"1","1","Kierujący","1954-07-30","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny ciężko"
+97262507,"2","1","Kierujący","1990-03-15","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+97262918,"1","1","Kierujący","1946-07-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97262918,"2","1","Kierujący","1994-07-06","Mężczyzna","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97263143,"1","1","Kierujący","1977-03-10","Kobieta","Posiada","Trzeźwy","14",NA,NA,NA
+97263143,"2","1","Kierujący","1940-11-20","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny",NA
+97263363,"1","1","Kierujący","1999-06-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97263363,"2","1","Kierujący","1984-01-15","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97263689,"1","1","Kierujący","1990-11-30","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97263689,"2","1","Kierujący","1959-09-02","Kobieta","Posiada","Trzeźwy","30","Nieprawidłowe: skręcanie","Dochodzenie",NA
+97264572,"1","1","Kierujący","1948-03-29","Mężczyzna","Posiada","Trzeźwy","42",NA,NA,NA
+97264572,"2","1","Kierujący","1978-02-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97264580,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+97264946,"1","1","Kierujący","2001-03-27","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97264946,"2","1","Kierujący","1952-12-27","Mężczyzna","Posiada","Trzeźwy","10",NA,"Wniosek o ukaranie",NA
+97265828,"1","1","Kierujący","2001-06-01","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97265878,"1","1","Kierujący","1941-08-29","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+97265878,"2","1","Kierujący","1946-09-24","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+97267223,"1","1","Kierujący","1998-09-30","Mężczyzna","Nie posiada","Trzeźwy",NA,NA,NA,NA
+97267223,"2","1","Kierujący","1934-04-09","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97267225,"1","1","Kierujący","1972-09-24","Mężczyzna","Posiada","Trzeźwy","4",NA,NA,NA
+97267225,"2","1","Kierujący","1957-02-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprzestrzeganie innych sygnałów","Wniosek o ukaranie",NA
+97271708,"1","1","Kierujący","2003-05-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97271708,"2","1","Kierujący","1974-11-30","Mężczyzna","Posiada","Trzeźwy","18","Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Pouczenie",NA
+97272559,"1","1","Kierujący","1975-09-04","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97272559,"2","1","Kierujący","1962-10-10","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Wniosek o ukaranie",NA
+97272998,"1","1","Kierujący","1979-09-30","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97277453,"1","1","Kierujący","1973-10-06","Kobieta","Posiada","Trzeźwy","21","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97277453,"2","1","Kierujący","1994-10-24","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97287663,"1","1","Kierujący","1950-03-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97287663,"2","1","Kierujący","1937-01-11","Mężczyzna","Posiada","Trzeźwy","50","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97288954,"1","1","Kierujący","1959-04-02","Mężczyzna","Posiada","Trzeźwy","38",NA,NA,NA
+97288954,"2","1","Kierujący","1995-10-22","Mężczyzna","Posiada","Trzeźwy","6","Niezachowanie bezp. odl. między pojazdami",NA,NA
+97291767,"1","1","Kierujący","1947-11-21","Kobieta","Posiada","Trzeźwy",NA,NA,NA,NA
+97291767,"2","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+97292561,"1","1","Kierujący","1964-06-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97292561,"2","1","Kierujący","1944-04-12","Mężczyzna","Posiada","Trzeźwy","35","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97294473,"1","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97294473,"2","1","Kierujący","1969-01-03","Mężczyzna","Posiada","Trzeźwy","25",NA,NA,NA
+97300575,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,NA,NA,NA
+97300575,"2","1","Kierujący","1957-08-04","Kobieta","Posiada","Trzeźwy","1","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+97300583,"1","1","Kierujący","1988-02-09","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+97300583,"2","1","Kierujący","1996-04-02","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: omijanie","Inny organ",NA
+97300661,"1","1","Kierujący","1986-10-05","Mężczyzna","Posiada","Trzeźwy","3","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97300661,"2","1","Kierujący","1972-11-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97300770,"1","1","Kierujący","1942-09-28","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97300770,"2","1","Kierujący","Nieustalona","Mężczyzna",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97302240,"1","1","Kierujący","1982-03-26","Mężczyzna","Posiada","Trzeźwy","12",NA,NA,NA
+97302240,"2","1","Kierujący","1990-01-11","Mężczyzna","Posiada","Trzeźwy","4","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97303566,"1","1","Kierujący","1944-08-03","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97303566,"2","1","Kierujący","1964-08-02","Mężczyzna","Posiada","Trzeźwy","16",NA,NA,NA
+97312560,"1","1","Kierujący","1982-08-28","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97312560,"2","1","Kierujący","1979-07-19","Mężczyzna","Posiada","Trzeźwy","10","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97312598,"1","1","Kierujący","1974-11-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda bez wymaganego oświetlenia","Mandat karny",NA
+97312598,"2","1","Kierujący","1989-09-23","Mężczyzna","Posiada","Trzeźwy","4","Niedostosowanie prędkości do warunków ruchu","Mandat karny","Ranny lekko"
+97312609,"1","1","Kierujący","1961-12-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97312609,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie",NA,NA
+97313039,"1","1","Kierujący","1976-08-14","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97313039,"2","1","Kierujący","1980-10-02","Kobieta","Posiada","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla rowerów","Wniosek o ukaranie",NA
+97313364,"1","1","Kierujący","1955-02-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Śmierć w ciągu 30 dni"
+97313364,"2","1","Kierujący","1994-02-01","Mężczyzna","Posiada","Trzeźwy",NA,NA,"Dochodzenie",NA
+97313673,"1","1","Kierujący","1976-03-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97313673,"2","1","Kierujący","1955-12-09","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97313840,"1","1","Kierujący","1951-12-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97313840,"2","1","Kierujący","1959-02-22","Mężczyzna","Posiada","Trzeźwy","34","Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97314564,"1","1","Kierujący","1949-08-19","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97314564,"2","1","Kierujący","1957-03-31","Mężczyzna","Posiada","Trzeźwy","27","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97319889,"1","1","Kierujący","1952-03-13","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97319889,"2","1","Kierujący","1975-04-07","Mężczyzna","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97321295,"1","1","Kierujący","1977-11-20","Mężczyzna","Nie posiada","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97321295,"2","1","Kierujący","1967-04-14","Mężczyzna","Posiada","Trzeźwy","29",NA,NA,NA
+97321519,"1","1","Kierujący","1947-09-25","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97321519,"2","1","Kierujący","1963-09-04","Kobieta","Posiada","Trzeźwy","7","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97323889,"1","1","Kierujący","1928-10-12","Mężczyzna","Posiada","Trzeźwy","62",NA,"Mandat karny",NA
+97323889,"2","1","Kierujący","1966-04-07","Mężczyzna","Posiada","Trzeźwy","6",NA,NA,NA
+97323889,"3","1","Kierujący","1985-06-28","Kobieta","Posiada","Trzeźwy","4",NA,NA,NA
+97325014,"1","1","Kierujący","1963-06-25","Kobieta","Posiada","Trzeźwy","25",NA,NA,NA
+97325014,"2","1","Kierujący","1987-06-15","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie","Ranny lekko"
+97325401,"1","1","Kierujący","1942-03-03","Mężczyzna","Posiada","Trzeźwy","52","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97325401,"2","1","Kierujący","1988-01-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97326134,"1","1","Kierujący","Nieustalona","Kobieta",NA,"Trzeźwy",NA,NA,"Wniosek o ukaranie",NA
+97326134,"2","1","Kierujący","1994-04-16","Mężczyzna","Posiada","Trzeźwy","0",NA,NA,NA
+97326289,"1","1","Kierujący","1998-10-06","Mężczyzna","Posiada","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie","Ranny lekko"
+97326289,"2","1","Kierujący","1985-08-04","Mężczyzna","Posiada","Trzeźwy","9",NA,NA,"Ranny lekko"
+97327724,"1","1","Kierujący","1996-06-30","Kobieta","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97327724,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: omijanie","Wniosek o ukaranie",NA
+97328076,"1","1","Kierujący","1984-09-25","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97328076,"2","1","Kierujący","1980-05-04","Mężczyzna","Posiada","Trzeźwy","14","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97328096,"1","1","Kierujący","1946-08-15","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+97328260,"1","1","Kierujący","1989-06-17","Mężczyzna","Posiada","Trzeźwy","3","Niedostosowanie prędkości do warunków ruchu","Mandat karny",NA
+97328260,"2","1","Kierujący","1958-10-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda bez wymaganego oświetlenia","Dochodzenie","Ranny lekko"
+97328704,"1","1","Kierujący","1978-11-20","Mężczyzna","Posiada","Trzeźwy","5",NA,NA,NA
+97328704,"2","1","Kierujący","1967-11-04","Kobieta","Posiada","Trzeźwy","8",NA,NA,NA
+97328704,"3","1","Kierujący","1976-11-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: omijanie","Dochodzenie","Ranny lekko"
+97328812,"1","1","Kierujący","1995-12-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Dochodzenie",NA
+97328812,"2","1","Kierujący","1961-07-09","Mężczyzna","Posiada","Trzeźwy","33",NA,NA,NA
+97329193,"1","1","Kierujący","1941-01-01","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97329193,"2","1","Kierujący","1961-05-17","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97333770,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97333770,"2","1","Kierujący","1954-04-13","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97336129,"1","1","Kierujący","1973-05-04","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+97336129,"2","1","Kierujący","1962-07-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Jazda po niewłaściwej stronie drogi","Dochodzenie","Smierć na miejscu"
+97336301,"1","1","Kierujący","1961-01-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97336301,"2","1","Kierujący","1981-02-14","Mężczyzna","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97355663,"1","1","Kierujący","1985-09-29","Kobieta","Posiada","Trzeźwy","4",NA,NA,NA
+97355663,"2","1","Kierujący","1999-03-08","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Wniosek o ukaranie",NA
+97356575,"1","1","Kierujący","1975-03-04","Mężczyzna","Posiada","Trzeźwy","3",NA,NA,NA
+97356575,"2","1","Kierujący","1953-07-12","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97380623,"1","1","Kierujący","1976-02-21","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97382195,"1","1","Kierujący","1973-05-08","Mężczyzna","Posiada","Trzeźwy","22","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97382195,"2","1","Kierujący","1953-10-26","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97394847,"1","1","Kierujący","1977-09-17","Kobieta","Posiada","Trzeźwy","11","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97394847,"2","1","Kierujący","1949-07-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97395890,"1","1","Kierujący","1943-07-10","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97395890,"2","1","Kierujący","1935-04-16","Mężczyzna","Posiada","Trzeźwy","58","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97396285,"1","1","Kierujący","1975-12-09","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,"Dochodzenie",NA
+97397854,"1","1","Kierujący","1972-09-14","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97397854,"2","1","Kierujący","1988-01-02","Kobieta","Posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97398675,"1","1","Kierujący","1943-08-05","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Pouczenie",NA
+97398675,"2","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97400712,"1","1","Kierujący","1921-06-03","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97400712,"2","1","Kierujący","1955-12-27","Kobieta","Posiada","Trzeźwy","28","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97402854,"1","1","Kierujący","1978-12-16","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97402854,"2","1","Kierujący","1978-08-14","Kobieta","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Pouczenie",NA
+97406821,"1","1","Kierujący","1968-07-15","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97406821,"2","1","Kierujący","1960-04-03","Mężczyzna","Posiada","Trzeźwy","36","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97406969,"1","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97406969,"2","1","Kierujący","1995-05-29","Kobieta","Nie wymagane","Trzeźwy",NA,"Niedostosowanie prędkości do warunków ruchu","Pouczenie",NA
+97407979,"1","1","Kierujący","1997-07-30","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Inny organ",NA
+97407979,"2","1","Kierujący","1969-02-28","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+97408653,"1","1","Kierujący","1966-07-11","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,"Dochodzenie","Ranny lekko"
+97409555,"1","1","Kierujący","1994-03-23","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: przejeżdżanie przejścia dla pieszych","Mandat karny",NA
+97409555,"2","1","Kierujący","1962-06-03","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97410386,"1","1","Kierujący","1950-02-18","Kobieta","Nie wymagane","Trzeźwy",NA,"Zmęczenie, zaśnięcie","Inny organ",NA
+97411633,"1","1","Kierujący","1987-02-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97411633,"2","1","Kierujący","1962-04-21","Kobieta","Posiada","Trzeźwy","21","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97412735,"1","1","Kierujący","2003-04-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97412735,"2","1","Kierujący","1957-04-12","Mężczyzna","Posiada","Trzeźwy","38","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97413806,"1","1","Kierujący","1957-03-27","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97413806,"2","1","Kierujący","1962-07-21","Mężczyzna","Posiada","Trzeźwy","33","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97433821,"1","1","Kierujący","1964-08-24","Kobieta","Posiada","Trzeźwy","15",NA,NA,NA
+97433821,"2","1","Kierujący","1945-05-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie","Ranny lekko"
+97433846,"1","1","Kierujący","1974-09-16","Mężczyzna","Posiada","Trzeźwy","21",NA,NA,NA
+97433846,"2","1","Kierujący","1925-05-20","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97433859,"1","1","Kierujący","1985-02-07","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97433859,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: skręcanie","Dochodzenie",NA
+97433880,"1","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97433880,"2","1","Kierujący","1971-01-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97434626,"1","1","Kierujący","1963-08-28","Mężczyzna","Posiada","Trzeźwy","17",NA,NA,NA
+97434626,"2","1","Kierujący","1975-01-12","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97435553,"1","1","Kierujący","1991-02-26","Kobieta","Posiada","Trzeźwy","3",NA,NA,NA
+97435553,"2","1","Kierujący","2004-03-31","Mężczyzna","Nie posiada","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97438600,"1","1","Kierujący","1985-08-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97438600,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97439942,"1","1","Kierujący","1992-06-11","Kobieta","Posiada","Trzeźwy","2","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97439942,"2","1","Kierujący","1968-02-27","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97440857,"1","1","Kierujący","1980-03-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97440857,"2","1","Kierujący","1992-12-16","Mężczyzna","Posiada","Trzeźwy","1","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97442156,"1","1","Kierujący","Nieustalona","Nie ustalono","Nie wymagane","Trzeźwy",NA,"Jazda bez wymaganego oświetlenia","Dochodzenie",NA
+97442207,"1","1","Kierujący","1955-06-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97442207,"2","1","Kierujący","1928-11-24","Mężczyzna","Posiada","Trzeźwy","30","Niezachowanie bezp. odl. między pojazdami","Dochodzenie",NA
+97446771,"1","1","Kierujący","1936-07-11","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97446771,"2","1","Kierujący","1974-03-05","Kobieta","Posiada","Trzeźwy","5","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97447680,"1","1","Kierujący","1986-02-04","Mężczyzna","Posiada","Trzeźwy","6",NA,NA,NA
+97447680,"2","1","Kierujący","1977-01-23","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97449274,"1","1","Kierujący","1976-07-30","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97449274,"2","1","Kierujący","1985-10-10","Mężczyzna","Nie wymagane","Alkoholu",NA,"Niedostosowanie prędkości do warunków ruchu","Dochodzenie",NA
+97449498,"1","1","Kierujący","1979-12-25","Mężczyzna","Posiada","Trzeźwy","13","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97449498,"2","1","Kierujący","1950-05-15","Mężczyzna","Nie wymagane","Alkoholu",NA,NA,NA,"Ranny lekko"
+97479606,"1","1","Kierujący","1950-04-29","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97479606,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Dochodzenie",NA
+97484679,"1","1","Kierujący","1993-05-02","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97484679,"2","1","Kierujący","1954-06-17","Mężczyzna","Posiada","Trzeźwy","20","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97485081,"1","1","Kierujący","1941-01-19","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny ciężko"
+97485081,"2","1","Kierujący","1980-03-25","Mężczyzna","Posiada","Trzeźwy","8","Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97485094,"1","1","Kierujący","1985-07-12","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa pieszemu","Dochodzenie",NA
+97485710,"1","1","Kierujący","1979-04-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97485710,"2","1","Kierujący","1994-07-12","Mężczyzna","Posiada","Trzeźwy","0","Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97486371,"1","1","Kierujący","1974-01-31","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97486371,"2","1","Kierujący","1952-08-01","Mężczyzna","Posiada","Trzeźwy","37",NA,NA,NA
+97496293,"1","1","Kierujący","1951-01-30","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97496293,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieprawidłowe: wyprzedzanie","Wniosek o ukaranie",NA
+97497763,"1","1","Kierujący","1980-01-30","Mężczyzna","Posiada","Trzeźwy","13",NA,NA,NA
+97497763,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Niezachowanie bezp. odl. między pojazdami","Dochodzenie",NA
+97503760,"1","1","Kierujący","1979-12-14","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97503760,"2","1","Kierujący","1946-10-29","Mężczyzna","Posiada","Trzeźwy","42","Niezachowanie bezp. odl. między pojazdami","Wniosek o ukaranie",NA
+97504825,"1","1","Kierujący","1947-07-18","Mężczyzna","Nie wymagane","Trzeźwy",NA,"Nieprawidłowe: skręcanie","Mandat karny",NA
+97504825,"2","1","Kierujący","1978-05-12","Kobieta","Posiada","Trzeźwy","12",NA,NA,NA
+97533432,"1","1","Kierujący","1981-03-25","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97533432,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie",NA
+97533433,"1","1","Kierujący","1958-09-02","Mężczyzna","Posiada","Trzeźwy","12",NA,NA,NA
+97533433,"2","1","Kierujący","1973-01-13","Mężczyzna","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97535025,"1","1","Kierujący","1988-07-08","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97535025,"2","1","Kierujący","Nieustalona","Nie ustalono",NA,"Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu",NA,NA
+97535652,"1","1","Kierujący","1976-05-17","Kobieta","Nie wymagane","Alkoholu",NA,"Nieudzielenie pierwszeństwa przejazdu","Wniosek o ukaranie",NA
+97535652,"2","1","Kierujący","1992-06-15","Mężczyzna","Posiada","Trzeźwy","2",NA,NA,NA
+97535682,"1","1","Kierujący","1954-03-22","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97535682,"2","1","Kierujący","1974-05-24","Kobieta","Posiada","Trzeźwy","21","Nieudzielenie pierwszeństwa przejazdu","Mandat karny",NA
+97536762,"1","1","Kierujący","1938-02-15","Mężczyzna","Nie wymagane","Trzeźwy",NA,NA,NA,NA
+97536762,"2","1","Kierujący","1970-07-01","Mężczyzna","Posiada","Trzeźwy","25","Nieprawidłowe: wyprzedzanie","Mandat karny",NA
+97549629,"1","1","Kierujący","1967-08-24","Kobieta","Nie wymagane","Trzeźwy",NA,"Nieudzielenie pierwszeństwa przejazdu","Dochodzenie","Ranny lekko"
+97549629,"2","1","Kierujący","1961-08-21","Mężczyzna","Posiada","Trzeźwy",NA,NA,NA,NA
+97583733,"1","1","Kierujący","1955-04-01","Kobieta","Nie wymagane","Trzeźwy",NA,NA,NA,"Ranny lekko"
+97583733,"2","1","Kierujący","1986-06-25","Mężczyzna","Posiada","Trzeźwy","5","Niedostosowanie prędkości do warunków ruchu","Dochodzenie",NA
